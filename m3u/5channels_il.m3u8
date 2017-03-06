@@ -1,0 +1,2121 @@
+#EXTM3U
+#EXTINF:0,כאן - שיא הרגש
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCRegeshLA
+#EXTINF:0,רשת מורשת
+http://127.0.0.1:65007/?url=radio-moreshetM&mode=33
+#EXTINF:0,רשת מורשת
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-moreshetM
+#EXTINF:0,רשת ה
+http://127.0.0.1:65007/?url=radio-heiM&mode=33
+#EXTINF:0,רשת ה
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-heiM
+#EXTINF:0,רשת ד קול ישראל בערבית
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-daledM
+#EXTINF:0,רשת ד קול ישראל בערבית
+http://127.0.0.1:65007/?url=radio-daledM&mode=33
+#EXTINF:0,רשת ג
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-gimelM
+#EXTINF:0,רשת ג
+http://127.0.0.1:65007/?url=radio-gimelM&mode=33
+#EXTINF:0,רשת ב
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-betM
+#EXTINF:0,רשת ב
+http://127.0.0.1:65007/?url=radio-betM&mode=33
+#EXTINF:0,רשת א מורשת
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-alephM
+#EXTINF:0,רשת א מורשת
+http://127.0.0.1:65007/?url=radio-alephM&mode=33
+#EXTINF:0,רשות השידור
+http://127.0.0.1:65007/?url=channel-33M&mode=33
+#EXTINF:0,רקע
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-rekaM
+#EXTINF:0,רקע
+http://127.0.0.1:65007/?url=radio-rekaM&mode=33
+#EXTINF:0,רדיו קול הצפון
+http://mms1.no-ip.net:8030/
+#EXTINF:0,רדיו עפולה
+http://radioafula.cdnwiz.com/stream
+#EXTINF:0,רדיו סול
+rtmp://wowza03.video-streaming.co.il:80/live playpath=2399LIVE5682 swfUrl=http://www.video-streaming.co.il/misc/flowplayer/flowplayer.commercial-3.2.18.swf pageUrl=http://www.video-streaming.co.il/video/iframe/ash/5682/e773ad?autoplay=true
+#EXTINF:0,רדיו מהות החיים
+rtmp://cast04.cdnwiz.com/eolsite/ playpath=eolsite.stream swfUrl=http://live.eol.co.il/jwplayer/jwplayer.flash.swf pageUrl=http://live.eol.co.il/
+#EXTINF:0,רדיו יאסו
+http://radio-yasoo.ath.cx:7500/
+#EXTINF:0,רדיו ביט
+http://live.radio-beat.com/stream1
+#EXTINF:0,כאן - קלאסיקה
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCClassicLA
+#EXTINF:0,קול עכו
+http://212.150.101.181:8012/
+#EXTINF:0,קול השלום קלאסיקות
+http://uk3-vn.mixstream.net:8264/
+#EXTINF:0,קול השלום
+http://uk2-vn.mixstream.net:8004/
+#EXTINF:0,קול המזרח
+http://radio.menta-fm.co.il:8888
+#EXTINF:0,קול המוזיקה
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-kolmusicaM
+#EXTINF:0,קול המוזיקה
+http://127.0.0.1:65007/?url=radio-kolmusicaM&mode=33
+#EXTINF:0,צפון ללא הפסקה 104.5FM
+http://1045fm.cdnwz.net/1045fm
+#EXTINF:0,ערוץ הקניות
+rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
+#EXTINF:0,ערוץ הקבלה
+http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+#EXTINF:0,ערוץ המורשת
+http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
+#EXTINF:0,ערוץ המוזיקה
+http://127.0.0.1:65007/?url=b3480d2eff3fd31006&mode=2
+#EXTINF:0,ערוץ המוזיקה
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:0,ערוץ הכנסת
+http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:0,ערוץ הכנסת
+mmsh://212.235.5.241/knessetlive
+#EXTINF:0,ערוץ החדשות 2
+http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+#EXTINF:0,ערוץ ההידברות
+http://stream7.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
+#EXTINF:0,ערוץ האח הגדול
+http://127.0.0.1:65007/?url=BB&mode=-1
+#EXTINF:0,ערוץ 2
+http://127.0.0.1:65007/?url=6540b8dcb64fd31006&mode=2
+#EXTINF:0,ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:0,ערוץ 2
+http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
+#EXTINF:0,ערוץ 10
+http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:0,ערוץ 10
+http://nana10live-lh.akamaihd.net/i/HD_0@123101/index_2400_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,נושמים מזרחית
+http://www.rs.mizrahit.co.il:7777/
+#EXTINF:0,כאן - נוסטלגיה
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCNostalgiaLA
+#EXTINF:0,מאירTV
+http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:0,כאן - להיטים
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCHitsLA
+#EXTINF:0,כאן - ים תיכוני
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCOrientalLA
+#EXTINF:0,הקצה
+http://s2.kzradio.net/live/mp3/icecast.audio
+#EXTINF:0,הערוץ הראשון
+http://127.0.0.1:65007/?url=channel-511M&mode=33
+#EXTINF:0,גלי צהל
+http://glzlv01.vds-is.bynetcdn.com/glz/glz_aac/playlist.m3u8
+#EXTINF:0,גלגלצ
+http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
+#EXTINF:0,גלגלצ
+http://glglzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
+#EXTINF:0,גלגלצ
+http://glglzwizzlv.bynetcdn.com/glglz_aes_hls/playlist.m3u8
+#EXTINF:0,כאן - אלטרנטיב
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBCAlternativeLA
+#EXTINF:0,אזורית
+http://wms01.video-streaming.co.il:8000
+#EXTINF:0,ЮТВ
+http://127.0.0.1:65007/?url=en/channels/%25D0%25AE%25D0%25A2%25D0%2592&mode=24
+#EXTINF:0,Ю
+http://stream.lapti.tv/hls/chunks/u.m3u8
+#EXTINF:0,Че RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A7%25D0%25B5&mode=24
+#EXTINF:0,Че
+http://stream.lapti.tv/hls/chunks/che.m3u8
+#EXTINF:0,Футбол 3 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A4%25D1%2583%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%2525203&mode=24
+#EXTINF:0,Футбол 2 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A4%25D1%2583%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%2525202&mode=24
+#EXTINF:0,Футбол 1 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A4%25D1%2583%25D1%2582%25D0%25B1%25D0%25BE%25D0%25BB%2525201&mode=24
+#EXTINF:0,ТНТ4 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A2%25D0%259D%25D0%25A24&mode=24
+#EXTINF:0,ТНТ RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A2%25D0%259D%25D0%25A2&mode=24
+#EXTINF:0,ТНТ
+http://stream.lapti.tv/hls/chunks/tnt.m3u8
+#EXTINF:0,ТНТ
+http://127.0.0.1:65007/?url=general/tnt&mode=20
+#EXTINF:0,ТВЦ RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A2%25D0%2592%25D0%25A6&mode=24
+#EXTINF:0,ТВЦ
+http://127.0.0.1:65007/?url=general/tvc&mode=20
+#EXTINF:0,ТВЦ
+http://stream.lapti.tv/hls/chunks/tvc.m3u8
+#EXTINF:0,ТВ3
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A2%25D0%25923&mode=24
+#EXTINF:0,ТВ3
+http://127.0.0.1:65007/?url=general/tv3&mode=20
+#EXTINF:0,ТВ3
+http://stream.lapti.tv/hls/chunks/tv3.m3u8
+#EXTINF:0,ТВ3
+http://127.0.0.1:65007/?url=tv3&mode=23
+#EXTINF:0,Спорт 1 Россия
+http://127.0.0.1:65007/?url=sport1ru&mode=23
+#EXTINF:0,СТС RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A1%25D0%25A2%25D0%25A1&mode=24
+#EXTINF:0,СТС
+http://stream.lapti.tv/hls/chunks/sts.m3u8
+#EXTINF:0,СТС
+http://127.0.0.1:65007/?url=general/sts-2&mode=20
+#EXTINF:0,Россия К (Культура)
+http://127.0.0.1:65007/?url=live/russiak-2&mode=20
+#EXTINF:0,Россия К
+http://stream.lapti.tv/hls/chunks/kultura.m3u8
+#EXTINF:0,Россия 24 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F%25252024&mode=24
+#EXTINF:0,Россия 24
+http://127.0.0.1:65007/?url=live/russia24&mode=20
+#EXTINF:0,Россия 24
+http://127.0.0.1:65007/?url=russia24&mode=23
+#EXTINF:0,Россия 24
+http://stream.lapti.tv/hls/chunks/rus24.m3u8
+#EXTINF:0,Россия 2
+http://127.0.0.1:65007/?url=russia2&mode=23
+#EXTINF:0,Россия 1 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A0%25D0%25BE%25D1%2581%25D1%2581%25D0%25B8%25D1%258F%2525201&mode=24
+#EXTINF:0,Россия 1
+http://stream.lapti.tv/hls/chunks/rus1.m3u8
+#EXTINF:0,Россия 1
+http://127.0.0.1:65007/?url=live/russia1&mode=20
+#EXTINF:0,Россия 1
+http://127.0.0.1:65007/?url=russia1&mode=23
+#EXTINF:0,Рен ТВ RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A0%25D0%25B5%25D0%25BD%252520%25D0%25A2%25D0%2592&mode=24
+#EXTINF:0,Рен ТВ (Ren TV)
+http://127.0.0.1:65007/?url=general/rentv&mode=20
+#EXTINF:0,РЕН-ТВ
+http://stream.lapti.tv/hls/chunks/ren.m3u8
+#EXTINF:0,РБК RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%25A0%25D0%2591%25D0%259A&mode=24
+#EXTINF:0,Пятый канал
+http://127.0.0.1:65007/?url=general/channel5&mode=20
+#EXTINF:0,Пятница RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259F%25D1%258F%25D1%2582%25D0%25BD%25D0%25B8%25D1%2586%25D0%25B0&mode=24
+#EXTINF:0,Пятница
+http://stream.lapti.tv/hls/chunks/pyatnica.m3u8
+#EXTINF:0,Плюс Плюс
+http://127.0.0.1:65007/?url=plusplus&mode=23
+#EXTINF:0,Перец ТВ
+http://127.0.0.1:65007/?url=perec&mode=23
+#EXTINF:0,Первый канал ОРТ
+http://127.0.0.1:65007/?url=ort&mode=23
+#EXTINF:0,Первый канал RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259F%25D0%25B5%25D1%2580%25D0%25B2%25D1%258B%25D0%25B9&mode=24
+#EXTINF:0,Первый канал
+http://stream.lapti.tv/hls/chunks/first.m3u8
+#EXTINF:0,Первый канал
+http://127.0.0.1:65007/?url=general/ort-3&mode=20
+#EXTINF:0,ОТР
+http://127.0.0.1:65007/?url=live/otr&mode=20
+#EXTINF:0,Ностальгия RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259D%25D0%25BE%25D1%2581%25D1%2582%25D0%25B0%25D0%25BB%25D1%258C%25D0%25B3%25D0%25B8%25D1%258F&mode=24
+#EXTINF:0,Наука 2.0 RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259D%25D0%25B0%25D1%2583%25D0%25BA%25D0%25B0%2525202.0&mode=24
+#EXTINF:0,НТВ+ Футбол
+http://127.0.0.1:65007/?url=ntvfootball&mode=23
+#EXTINF:0,НТВ RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259D%25D0%25A2%25D0%2592&mode=24
+#EXTINF:0,НТВ
+http://127.0.0.1:65007/?url=ntv&mode=23
+#EXTINF:0,НТВ
+http://127.0.0.1:65007/?url=general/ntv-6&mode=20
+#EXTINF:0,НТВ
+http://stream.lapti.tv/hls/chunks/ntv.m3u8
+#EXTINF:0,Моя планета RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259C%25D0%25BE%25D1%258F%252520%25D0%259F%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B5%25D1%2582%25D0%25B0&mode=24
+#EXTINF:0,Мир RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259C%25D0%25B8%25D1%2580&mode=24
+#EXTINF:0,Матч! Боец
+http://127.0.0.1:65007/?url=en/channels/%25D0%259C%25D0%25B0%25D1%2582%25D1%2587%21%252520%25D0%2591%25D0%25BE%25D0%25B5%25D1%2586&mode=24
+#EXTINF:0,Матч! Арена
+http://127.0.0.1:65007/?url=en/channels/%25D0%259C%25D0%25B0%25D1%2582%25D1%2587%21%252520%25D0%2590%25D1%2580%25D0%25B5%25D0%25BD%25D0%25B0&mode=24
+#EXTINF:0,Матч Игра RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259C%25D0%25B0%25D1%2582%25D1%2587%252520%25D0%2598%25D0%25B3%25D1%2580%25D0%25B0&mode=24
+#EXTINF:0,МАТЧ!
+http://stream.lapti.tv/hls/chunks/match.m3u8
+#EXTINF:0,Кухня ТВ RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%259A%25D1%2583%25D1%2585%25D0%25BD%25D1%258F%252520%25D0%25A2%25D0%2592&mode=24
+#EXTINF:0,Культура
+http://127.0.0.1:65007/?url=en/channels/%25D0%259A%25D1%2583%25D0%25BB%25D1%258C%25D1%2582%25D1%2583%25D1%2580%25D0%25B0&mode=24
+#EXTINF:0,Карусель
+http://stream.lapti.tv/hls/chunks/karusel.m3u8
+#EXTINF:0,Карусель
+http://127.0.0.1:65007/?url=karusel&mode=23
+#EXTINF:0,Карусель
+http://127.0.0.1:65007/?url=1776-karusel&mode=28
+#EXTINF:0,Карусель
+http://127.0.0.1:65007/?url=live/karusel-2&mode=20
+#EXTINF:0,КХЛ
+http://127.0.0.1:65007/?url=khl&mode=23
+#EXTINF:0,История RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%2598%25D1%2581%25D1%2582%25D0%25BE%25D1%2580%25D0%25B8%25D1%258F&mode=24
+#EXTINF:0,Звезда RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%2597%25D0%25B2%25D0%25B5%25D0%25B7%25D0%25B4%25D0%25B0&mode=24
+#EXTINF:0,Звезда
+http://stream.lapti.tv/hls/chunks/zvezda.m3u8
+#EXTINF:0,Звезда
+http://127.0.0.1:65007/?url=live/zvezda&mode=20
+#EXTINF:0,Домашний RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%2594%25D0%25BE%25D0%25BC%25D0%25B0%25D1%2588%25D0%25BD%25D0%25B8%25D0%25B9&mode=24
+#EXTINF:0,Домашний
+http://127.0.0.1:65007/?url=general/domashniy&mode=20
+#EXTINF:0,Домашний
+http://stream.lapti.tv/hls/chunks/domashnii.m3u8
+#EXTINF:0,Домашние животные RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%2594%25D0%25BE%25D0%25BC%25D0%25B0%25D1%2588%25D0%25BD%25D0%25B8%25D0%25B5%252520%25D0%25B6%25D0%25B8%25D0%25B2%25D0%25BE%25D1%2582%25D0%25BD%25D1%258B%25D0%25B5&mode=24
+#EXTINF:0,Дисней
+http://127.0.0.1:65007/?url=disney&mode=23
+#EXTINF:0,Дисней
+http://stream.lapti.tv/hls/chunks/disney.m3u8
+#EXTINF:0,Время RU
+http://127.0.0.1:65007/?url=en/channels/%25D0%2592%25D1%2580%25D0%25B5%25D0%25BC%25D1%258F&mode=24
+#EXTINF:0,Боец ТВ
+http://127.0.0.1:65007/?url=92-boec-tv&mode=29
+#EXTINF:0,zvezda
+http://127.0.0.1:65007/?url=42-zvezda&mode=28
+#EXTINF:0,Zombie Underworld
+http://127.0.0.1:65007/?url=3071&mode=1
+#EXTINF:0,Zing
+http://46.249.213.87/iPhone/broadcast/zing-tablet.3gp.m3u8
+#EXTINF:0,Zee Bollyworld TV
+http://127.0.0.1:65007/?url=3491&mode=1
+#EXTINF:0,ZDFneo
+http://127.0.0.1:65007/?url=360%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,ZDF INFOKANAL
+http://127.0.0.1:65007/?url=2762%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,ZDF
+http://127.0.0.1:65007/?url=zdf&mode=47
+#EXTINF:0,ZDF
+http://127.0.0.1:65007/?url=220%3B%3Bzdftv&mode=6
+#EXTINF:0,YVELINES TV
+http://rtmp.infomaniak.ch/livecast/yveline1/.m3u8
+#EXTINF:0,youchannel
+http://stream.rs.co.th/you-hi/index.m3u8?d=web
+#EXTINF:0,you channel
+http://127.0.0.1:65007/?url=ch36&mode=15
+#EXTINF:0,Ynet Live
+http://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
+#EXTINF:0,Yesterday
+http://127.0.0.1:65007/?url=1039&mode=1
+#EXTINF:0,XXI
+http://127.0.0.1:65007/?url=tv-21&mode=30
+#EXTINF:0,world travel channel
+http://127.0.0.1:65007/?url=198&mode=6
+#EXTINF:0,World Fashion
+http://127.0.0.1:65007/?url=wf&mode=23
+#EXTINF:0,workpoint SD
+rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_480p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://workpointtv.web-nilecon.com/player/desktop-player-hd.html
+#EXTINF:0,workpoint HD
+rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_720p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://workpointtv.web-nilecon.com/player/desktop-player-hd.html
+#EXTINF:0,Wonderful Living TV
+http://127.0.0.1:65007/?url=2990&mode=1
+#EXTINF:0,Wild About Animals
+http://127.0.0.1:65007/?url=3146&mode=1
+#EXTINF:0,WEO
+rtmp://str81.creacast.com:80/weo playpath=high swfUrl=http://www.tvlizer.com/live47/player.swf pageUrl=http://www.tvlizer.com/weo-tv-fra/
+#EXTINF:0,WDR
+http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
+#EXTINF:0,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:0,W9
+http://127.0.0.1:65007/?url=regarder_w9&mode=47
+#EXTINF:0,Vox olds cool TV
+rtmp://stream.smcloud.net/tv/vox/vox_360p
+#EXTINF:0,VOX
+http://127.0.0.1:65007/?url=vox&mode=47
+#EXTINF:0,VOICE TV 21
+rtmp://livestream.voicetv.co.th:1935/live-edge playpath=voicetv_360p swfUrl=http://live.voicetv.co.th/player/osmf/StrobeMediaPlayback.swf pageUrl=http://live.voicetv.co.th/
+#EXTINF:0,VOICE TV 21
+http://111.223.36.2/tp_voice_tv.m3u8
+#EXTINF:0,VoA English
+http://127.0.0.1:65007/?url=2996%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Vizyon Turk
+http://127.0.0.1:65007/?url=165&mode=6
+#EXTINF:0,Virgin TV
+http://wow01.105.net/live/virgin1/playlist.m3u8
+#EXTINF:0,Virgin TV
+rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10
+#EXTINF:0,viasat nature
+http://127.0.0.1:65007/?url=180-viasat-nature&mode=29
+#EXTINF:0,Viasat Nature
+http://127.0.0.1:65007/?url=en/channels/Viasat%2520Nature&mode=24
+#EXTINF:0,Viasat History
+http://127.0.0.1:65007/?url=en/channels/Viasat%2520History&mode=24
+#EXTINF:0,viasat history
+http://127.0.0.1:65007/?url=116-viasat-history&mode=29
+#EXTINF:0,viasat explorer
+http://127.0.0.1:65007/?url=119-viasat-explorer&mode=29
+#EXTINF:0,Viasat Explore
+http://127.0.0.1:65007/?url=en/channels/Viasat%2520Explore&mode=24
+#EXTINF:0,VH1 Europe
+http://127.0.0.1:65007/?url=vh1-russia-tv-online&mode=25
+#EXTINF:0,VH1 Europe
+http://127.0.0.1:65007/?url=265-vh1-europe&mode=29
+#EXTINF:0,VH1 Classic
+http://127.0.0.1:65007/?url=vh1-classic-tv-online&mode=25
+#EXTINF:0,VH1 Classic
+http://127.0.0.1:65007/?url=264-vh1-classik&mode=29
+#EXTINF:0,Vasantham SINGAPORE
+http://tglvas-lh.akamaihd.net/i/vas_fta@334587/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,utv
+rtmp://82.76.40.76:80/utvedge/ playpath=utvlive swfUrl=http://www.utv.ro/player/jwplayer/jwplayer.flash.swf pageUrl=http://www.utv.ro/live/
+#EXTINF:0,ut1
+http://127.0.0.1:65007/?url=ut1&mode=23
+#EXTINF:0,Ulusal Kanal
+http://127.0.0.1:65007/?url=173%3B%3Bulusal_kanal&mode=6
+#EXTINF:0,Ultimate Disc TV
+http://127.0.0.1:65007/?url=3130&mode=1
+#EXTINF:0,Ulke TV
+http://127.0.0.1:65007/?url=198%3B%3Bulketv&mode=6
+#EXTINF:0,UFC Next
+http://127.0.0.1:65007/?url=713&mode=1
+#EXTINF:0,TWiT US
+http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:0,tvri nasional
+rtmp://118.97.183.196/jhos//tvri
+#EXTINF:0,tvr international
+http://127.0.0.1:65007/?url=live-tvr-international&mode=14
+#EXTINF:0,TVP
+http://prepublish.f.qaotic.net/a02/ngrp:c7live01-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0,tvm_piatra_neamt
+http://tvm.ambra.ro/
+#EXTINF:0,TVM Est Parisien
+http://rtmp.infomaniak.ch/livecast/cineplume/.m3u8
+#EXTINF:0,tvge
+rtmp://media3.crtvg.es:80/live playpath=tvge_2 swfUrl=http://www.crtvg.es/flow3/flowplayer.commercial.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo
+#EXTINF:0,TVC Latino
+http://127.0.0.1:65007/?url=213&mode=1
+#EXTINF:0,tvc
+rtmp://tvc.cdnvideo.ru/tvc-p212 playpath=rtmp_p11_sq swfUrl=http://cdn.tvc.ru/flash/livetvc.swf?v=90 pageUrl=http://www.tvc.ru/channel/onairiframe
+#EXTINF:0,TVA
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TV5MONDE EUROPE
+http://127.0.0.1:65007/?url=517%26filmonmethod%3D1%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,TV5MONDE EUROPE
+http://127.0.0.1:65007/?url=regarder-tv5monde&mode=47
+#EXTINF:0,TV4
+http://mn-l.mncdn.com:1935/r_karamel/karamel/master.m3u8
+#EXTINF:0,TV3
+http://127.0.0.1:65007/?url=tv3-tv-online&mode=25
+#EXTINF:0,tv3
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+#EXTINF:0,Tv2000
+http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
+#EXTINF:0,tv10000 action
+http://127.0.0.1:65007/?url=67-tv1000-action&mode=29
+#EXTINF:0,tv10000
+http://127.0.0.1:65007/?url=188-tv-1000&mode=29
+#EXTINF:0,tv1000 megahit hd
+http://127.0.0.1:65007/?url=270-tv1000-megahit-hd&mode=29
+#EXTINF:0,TV1000 kino
+http://127.0.0.1:65007/?url=tv1000-russkoe-kino-online&mode=25
+#EXTINF:0,TV1000 Action
+http://127.0.0.1:65007/?url=tv1000-action-east-tv-online&mode=25
+#EXTINF:0,TV-LAO
+http://live10.netdesignhost.com/tvlaolive/tvlaolive/playlist.m3u8
+#EXTINF:0,tv xxi
+http://127.0.0.1:65007/?url=139-tv-xxi&mode=29
+#EXTINF:0,TV PARLIAMENT
+http://202.57.162.55:1935/radio01/radio01/playlist.m3u8
+#EXTINF:0,TV Galicia
+http://media3.crtvg.es/live/tvga/chunklist.m3u8
+#EXTINF:0,TV Extremadura
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b264000_DVR.m3u8
+#EXTINF:0,TV Centr
+http://127.0.0.1:65007/?url=tvcenter-tv-online&mode=25
+#EXTINF:0,tv centr
+http://127.0.0.1:65007/?url=1956-tv-centr&mode=28
+#EXTINF:0,tv breizh
+http://127.0.0.1:65007/?url=regarder-tv-breizh&mode=47
+#EXTINF:0,TV 2
+http://127.0.0.1:65007/?url=173&mode=6
+#EXTINF:0,tv 1000 russkoe kino
+http://127.0.0.1:65007/?url=187-tv-1000-russkoe-kino&mode=29
+#EXTINF:0,tv 1000 premium hd
+http://127.0.0.1:65007/?url=271-tv-1000-premium-hd&mode=29
+#EXTINF:0,tv 1000 comedy hd
+http://127.0.0.1:65007/?url=276-tv-1000-comedy-hd&mode=29
+#EXTINF:0,truTV
+http://127.0.0.1:65007/?url=3707&mode=1
+#EXTINF:0,true4u
+http://127.0.0.1:65007/?url=ch23&mode=15
+#EXTINF:0,True Select
+http://127.0.0.1:65007/?url=ch27&mode=15
+#EXTINF:0,TRT3-TBMM TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT1HD
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT WORLD
+http://127.0.0.1:65007/?url=460&mode=6
+#EXTINF:0,TRT Turk
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT turk
+http://127.0.0.1:65007/?url=84%3B%3Btrtturk&mode=6
+#EXTINF:0,TRT Spor
+http://127.0.0.1:65007/?url=84%3B%3Btrtspor&mode=6
+#EXTINF:0,TRT Spor
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Okul
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Music
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Music
+http://127.0.0.1:65007/?url=49&mode=6
+#EXTINF:0,TRT Haber
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Haber
+http://127.0.0.1:65007/?url=196&mode=6
+#EXTINF:0,TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Cocuk
+http://127.0.0.1:65007/?url=50&mode=6
+#EXTINF:0,TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT Belgesel
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT ARAPCA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT 6
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TRT 1
+http://127.0.0.1:65007/?url=84%3B%3Btrt1eu&mode=6
+#EXTINF:0,Trek TV
+http://live-trl01.abweb.com/livetrl01/ngrp:trek.stream_bis/master.m3u8
+#EXTINF:0,Travel Channel+1
+http://127.0.0.1:65007/?url=842%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Travel channel thailand
+http://27.131.149.42:1935/travel/live/playlist.m3u8
+#EXTINF:0,Travel Channel RU
+http://127.0.0.1:65007/?url=en/channels/Travel%2520Channel&mode=24
+#EXTINF:0,travel channel
+http://127.0.0.1:65007/?url=travel-channel&mode=30
+#EXTINF:0,travel and adventure
+http://127.0.0.1:65007/?url=286-travel-and-adventure&mode=29
+#EXTINF:0,travel and adventure
+http://127.0.0.1:65007/?url=travel-and-adventure&mode=30
+#EXTINF:0,Toute l'Histoire
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/master.m3u8
+#EXTINF:0,TODO NOTICIAS
+http://prepublish.f.qaotic.net/a04/ngrp:tn_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0,TNT
+http://127.0.0.1:65007/?url=tnt-tv-online&mode=25
+#EXTINF:0,TLC RU
+http://127.0.0.1:65007/?url=en/channels/TLC&mode=24
+#EXTINF:0,TiVa (Puerto Rico)
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Dat11k66o_7w&mode=3
+#EXTINF:0,Tiny Pop
+http://127.0.0.1:65007/?url=318&mode=1
+#EXTINF:0,Timeless television
+http://127.0.0.1:65007/?url=3011&mode=1
+#EXTINF:0,tiji
+http://127.0.0.1:65007/?url=252-tiji&mode=29
+#EXTINF:0,THT Comedy
+http://127.0.0.1:65007/?url=12&mode=30
+#EXTINF:0,THT comedy
+http://127.0.0.1:65007/?url=1262-comedy-tv&mode=28
+#EXTINF:0,THT
+http://127.0.0.1:65007/?url=10-tnt&mode=29
+#EXTINF:0,THT
+http://127.0.0.1:65007/?url=1772-tnt&mode=28
+#EXTINF:0,THT
+http://127.0.0.1:65007/?url=tnt&mode=23
+#EXTINF:0,theedgetv
+http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/theedgetv_live/master_1500.m3u8
+#EXTINF:0,The Western Channel
+http://127.0.0.1:65007/?url=384&mode=1
+#EXTINF:0,The Soundtrack Channel
+http://127.0.0.1:65007/?url=350&mode=1
+#EXTINF:0,The Outdoor Cooking Channel
+http://127.0.0.1:65007/?url=3062&mode=1
+#EXTINF:0,The Lucy Show
+http://127.0.0.1:65007/?url=3101&mode=1
+#EXTINF:0,The Dick Van Dyke Show
+http://127.0.0.1:65007/?url=3098&mode=1
+#EXTINF:0,The Beverly Hillbillies
+http://127.0.0.1:65007/?url=2969&mode=1
+#EXTINF:0,Thairath TV
+http://127.0.0.1:65007/?url=ch39&mode=15
+#EXTINF:0,Thairath TV
+http://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:0,thaichaiyotv
+http://live.thaichaiyotv.co.th:1935/thaichaiyotv/live/playlist.m3u8
+#EXTINF:0,Thai PBS SD
+http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:0,Thai PBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:0,THAI CCTV
+http://127.0.0.1:65007/?url=ch28&mode=15
+#EXTINF:0,TGN
+http://127.0.0.1:65007/?url=106&mode=6
+#EXTINF:0,TF1
+http://127.0.0.1:65007/?url=regarder_tf1&mode=47
+#EXTINF:0,TF1
+http://127.0.0.1:65007/?url=tf1-direct&mode=39
+#EXTINF:0,tet
+http://127.0.0.1:65007/?url=tet&mode=23
+#EXTINF:0,Telesur
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0,TELEMAX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:0,TeleMadrid
+http://telemadrid-live.hls.adaptive.level3.net/hls-live/telemadrid-telemadridbis/_definst_/live.m3u8
+#EXTINF:0,telem_neamt
+http://telem.ambra.ro
+#EXTINF:0,Tecnopolis
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,Tea Time with Tayla
+http://127.0.0.1:65007/?url=2993&mode=1
+#EXTINF:0,TDC (Santa Fe)
+rtmp://painel.serveron.com.br/8166/8166
+#EXTINF:0,TCCTV
+http://solution01.stream.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8
+#EXTINF:0,TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TB3
+http://127.0.0.1:65007/?url=1642-tv-3&mode=28
+#EXTINF:0,TATETI
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:0,Tails TV
+http://127.0.0.1:65007/?url=4169&mode=1
+#EXTINF:0,Tagesschau 24
+http://127.0.0.1:65007/?url=415%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,ta tv
+http://127.0.0.1:65007/?url=242&mode=6
+#EXTINF:0,T-MUSIC
+rtmp://118.97.183.196/jhos//allegro
+#EXTINF:0,Suria SINGAPORE
+http://tglsuria-lh.akamaihd.net/i/suria_fta@334584/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Supersonic TV
+rtmp://str103.setplex.net:1935/228 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://online.super-sonic.tv/tv-live/
+#EXTINF:0,SUPER RTL
+http://127.0.0.1:65007/?url=super-rtl&mode=47
+#EXTINF:0,STS TV
+http://127.0.0.1:65007/?url=sts-tv-online&mode=25
+#EXTINF:0,StarTV
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DjWP3ntl64I4&mode=3
+#EXTINF:0,Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8
+#EXTINF:0,SRF1
+http://127.0.0.1:65007/?url=3908&mode=1
+#EXTINF:0,Spud's funny channel
+http://127.0.0.1:65007/?url=3020&mode=1
+#EXTINF:0,Spud's crime and punishment channel
+http://127.0.0.1:65007/?url=3017&mode=1
+#EXTINF:0,spring news
+http://1457077260.cat-cdn.i-iptv.com/1457077260/smil:livestream.smil/playlist.m3u8
+#EXTINF:0,Sports TV
+http://127.0.0.1:65007/?url=84%3B%3Bsportstv&mode=6
+#EXTINF:0,Sport 2
+http://127.0.0.1:65007/?url=sport2-tv-online&mode=25
+#EXTINF:0,Sport 1
+http://127.0.0.1:65007/?url=sport1-tv-online&mode=25
+#EXTINF:0,SPERANTA TV
+http://play.crestin.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:0,SPEED
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D06NkT8DpeLE&mode=3
+#EXTINF:0,spacetoon plus indonesia
+rtmp://118.97.183.196/jhos//spacetoonplus
+#EXTINF:0,SONY TV
+http://127.0.0.1:65007/?url=set&mode=30
+#EXTINF:0,SONY Turbo
+http://127.0.0.1:65007/?url=sony-turbo&mode=30
+#EXTINF:0,sony sci fi
+http://127.0.0.1:65007/?url=sony-sci-fi&mode=30
+#EXTINF:0,Smile of a Child
+http://127.0.0.1:65007/?url=401&mode=1
+#EXTINF:0,Sky TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0,sky news arabia
+http://127.0.0.1:65007/?url=111%3B%3Bskynews/skynewsarb&mode=6
+#EXTINF:0,sky news
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:0,sky news
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Dy60wDzZt8yg&mode=3
+#EXTINF:0,sky news
+rtmp://dayfdd.cdn.newschat.tv/edge playpath=skyintl_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/sky/
+#EXTINF:0,sky news
+http://127.0.0.1:65007/?url=34%3B%3Bskynews&mode=6
+#EXTINF:0,SKY 360
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:0,SHOW MAX
+http://mn-l.mncdn.com:1935/showmax/showmax2/master.m3u8
+#EXTINF:0,set sony tv
+http://127.0.0.1:65007/?url=295-set-sony-tv&mode=29
+#EXTINF:0,Senal Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,Science & Vie TV
+http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/master.m3u8
+#EXTINF:0,SAT1
+http://127.0.0.1:65007/?url=sat1&mode=47
+#EXTINF:0,sangsook
+http://203.151.45.35:1935/live/mp4:game/playlist.m3u8
+#EXTINF:0,sabaidee
+http://stream.rs.co.th/sbd-hi/index.m3u8?d=web
+#EXTINF:0,sabaidee
+rtmp://202.142.207.150:1935/live playpath=livesabaidee2 swfUrl=http://www.one2up.com/include/swf/StrobeMediaPlayback/StrobeMediaPlayback.swf pageUrl=http://tv.guchill.com/SabaideeTV-Live.html?l=2
+#EXTINF:0,sabaidee
+http://127.0.0.1:65007/?url=ch35&mode=15
+#EXTINF:0,russkiy roman
+http://127.0.0.1:65007/?url=russkiy-roman&mode=30
+#EXTINF:0,russkiy roman
+http://127.0.0.1:65007/?url=302-russkiy-roman&mode=29
+#EXTINF:0,Russian Today: Documentary
+http://rt-doc-live.hls.adaptive.level3.net/rt/doc/index2500.m3u8
+#EXTINF:0,Russian Today: Documentary
+http://127.0.0.1:65007/?url=1981%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,russia24
+http://127.0.0.1:65007/?url=russia24-tv-online&mode=25
+#EXTINF:0,russia2
+http://127.0.0.1:65007/?url=russia2-tv-online&mode=25
+#EXTINF:0,russia1
+http://127.0.0.1:65007/?url=russia1-tv-online&mode=25
+#EXTINF:0,Russia Today Spanish
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DOALyNX4IbBI&mode=3
+#EXTINF:0,Russia Today Spanish
+http://rt-eng-live.hls.adaptive.level3.net/rt/esp/index2500.m3u8
+#EXTINF:0,Russia Today Arabic
+http://rt-eng-live.hls.adaptive.level3.net/rt/ara/index2500.m3u8
+#EXTINF:0,Russia Today Arabic
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DmFQA6sCQOU4&mode=3
+#EXTINF:0,Russia Today America
+http://rt-usa-live.hls.adaptive.level3.net/rt/usa/index2500.m3u8
+#EXTINF:0,Russia Today
+http://127.0.0.1:65007/?url=24&mode=6
+#EXTINF:0,Russia Today
+http://127.0.0.1:65007/?url=93&mode=1
+#EXTINF:0,Russia Today
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/rt-news-mobile.3gp.m3u8?trackingid=3331450000&os=desktopv3
+#EXTINF:0,Russia Today
+http://rt-eng-live.hls.adaptive.level3.net/rt/eng/index2500.m3u8
+#EXTINF:0,Russia Kultura
+http://127.0.0.1:65007/?url=russiak-tv-online&mode=25
+#EXTINF:0,Russia 24
+http://127.0.0.1:65007/?url=4-vesti&mode=28
+#EXTINF:0,rusiya1
+http://127.0.0.1:65007/?url=khl-tv&mode=30
+#EXTINF:0,Runway TV
+http://127.0.0.1:65007/?url=3116&mode=1
+#EXTINF:0,RTV
+http://91.232.210.203:8020/rtv.flv?file=rtv.flv&start=0
+#EXTINF:0,RTS Un
+http://127.0.0.1:65007/?url=rts-un&mode=47
+#EXTINF:0,RTS Un
+http://127.0.0.1:65007/?url=3911&mode=1
+#EXTINF:0,RTS Deux
+http://127.0.0.1:65007/?url=3914&mode=1
+#EXTINF:0,RTS Deux
+http://127.0.0.1:65007/?url=rts-deux&mode=47
+#EXTINF:0,rtr planeta
+http://127.0.0.1:65007/?url=274-rtr-planeta&mode=28
+#EXTINF:0,RTR Planeta
+http://127.0.0.1:65007/?url=1738&mode=1
+#EXTINF:0,RTPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8
+#EXTINF:0,RTL9
+http://live-trl01.abweb.com/livetrl01/ngrp:rtl9.stream_bis/master.m3u8
+#EXTINF:0,RTL2
+http://127.0.0.1:65007/?url=rtl-ii&mode=47
+#EXTINF:0,rtl tvi
+http://127.0.0.1:65007/?url=rtl-tvi&mode=47
+#EXTINF:0,RTL
+http://127.0.0.1:65007/?url=rtl&mode=47
+#EXTINF:0,RTE News
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:0,RSI La 2
+http://127.0.0.1:65007/?url=rsi-la-2&mode=47
+#EXTINF:0,RSI La 1
+http://127.0.0.1:65007/?url=rsi-la-1&mode=47
+#EXTINF:0,RSI La 1
+http://127.0.0.1:65007/?url=3917&mode=1
+#EXTINF:0,Rouge TV French
+rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true
+#EXTINF:0,rossija k
+http://127.0.0.1:65007/?url=1888-rossija-k&mode=28
+#EXTINF:0,rossija 2
+http://127.0.0.1:65007/?url=1257-rossia-2&mode=28
+#EXTINF:0,rossija 1
+http://127.0.0.1:65007/?url=1297-rossija-1&mode=28
+#EXTINF:0,Robin Hood
+http://127.0.0.1:65007/?url=2972&mode=1
+#EXTINF:0,RMC
+http://streaming-hub.com/stream/rmc.m3u8
+#EXTINF:0,Retro music TV
+rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1 swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en
+#EXTINF:0,renTV
+http://127.0.0.1:65007/?url=1296-ren-tv&mode=28
+#EXTINF:0,REN TV
+http://127.0.0.1:65007/?url=rentv-tv-online&mode=25
+#EXTINF:0,Really
+http://127.0.0.1:65007/?url=372&mode=1
+#EXTINF:0,REALITATEA TV
+http://185.120.145.2/hls/live.m3u8
+#EXTINF:0,Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:0,rai yoyo itali
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-b.m3u8
+#EXTINF:0,RAI STORIA
+http://originstream6.rai.it/italy/smil:raistoria.smil/chunklist_b900000.m3u8
+#EXTINF:0,rai sport 2
+http://127.0.0.1:65007/?url=rai-sport-2&mode=47
+#EXTINF:0,rai sport 2
+http://originstream12.rai.it/italy/raisport2_1200/master.m3u8
+#EXTINF:0,rai sport
+http://originstream12.rai.it/italy/raisport1_1200/playlist.m3u8
+#EXTINF:0,rai sport
+http://127.0.0.1:65007/?url=rai-sport-1&mode=47
+#EXTINF:0,Rai Scuola
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:0,rai premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,Rai news
+Http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=489110&dem=3
+#EXTINF:0,RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,rai gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,RAI 5
+http://127.0.0.1:65007/?url=rai-5&mode=47
+#EXTINF:0,RAI 5
+http://b2.stream12.rai.it/live/rai5.smil/playlist.m3u8
+#EXTINF:0,RAI 4
+http://b2.stream14.rai.it/italy/rai4_1200/chunklist.m3u8
+#EXTINF:0,RAI 4
+http://127.0.0.1:65007/?url=rai-4&mode=47
+#EXTINF:0,RAI 3
+http://b2.stream14.rai.it/italy/rai3_1200/chunklist.m3u8
+#EXTINF:0,RAI 3
+http://127.0.0.1:65007/?url=rai-3&mode=47
+#EXTINF:0,RAI 2
+http://b2.stream14.rai.it/italy/rai2_1200/chunklist.m3u8
+#EXTINF:0,RAI 2
+http://127.0.0.1:65007/?url=rai-2&mode=47
+#EXTINF:0,RAI 1
+http://b2.stream14.rai.it/italy/rai1_1200/chunklist.m3u8
+#EXTINF:0,RAI 1
+http://127.0.0.1:65007/?url=rai-1&mode=47
+#EXTINF:0,Radio Dance ISRAEL
+http://cp11.livecdn.biz/radiodance_aac
+#EXTINF:0,Radio 1FM
+http://listen.clickfm.co.il/1FM
+#EXTINF:0,Radio 105 TV
+rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10
+#EXTINF:0,192x192 - r:1.jpg",TV Pública
+http://prepublish.f.qaotic.net/a06/ngrp:c7live02Internacional-20034_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0,640x360 - r:1.jpg",NHK World HD
+rtmp://dayfdd.cdn.newschat.tv/edge playpath=nhkworld_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/nhk-world/
+#EXTINF:0,640x360 - r:1.jpg",NHK World HD
+http://127.0.0.1:65007/?url=216%3B%3Bnhkworld%3B%3B&mode=6
+#EXTINF:0,640x360 - r:1.jpg",NHK World HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_2100.m3u8
+#EXTINF:0,R.ItaliaTV
+http://127.0.0.1:65007/?url=4115&mode=1
+#EXTINF:0,QVC HD
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D2oG7ZbZnTcA&mode=3
+#EXTINF:0,QVC HD
+http://127.0.0.1:65007/?url=413&mode=1
+#EXTINF:0,Quiero Musica
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0,QUEST
+http://127.0.0.1:65007/?url=2707&mode=1
+#EXTINF:0,QTV
+http://127.0.0.1:65007/?url=19&mode=30
+#EXTINF:0,QM
+http://qmnoticiashls-lh.akamaihd.net/i/qmnoticias_hls@324831/master.m3u8
+#EXTINF:0,Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:0,protv news
+http://185.133.64.237/news/stream:1.stream/chunklist_w1324413730.m3u8
+#EXTINF:0,PRO7
+http://127.0.0.1:65007/?url=prosieben-pro7&mode=47
+#EXTINF:0,PRO7
+http://127.0.0.1:65007/?url=prosieben&mode=47
+#EXTINF:0,Press TV
+http://127.0.0.1:65007/?url=102&mode=6
+#EXTINF:0,Press TV
+http://127.0.0.1:65007/?url=905&mode=1
+#EXTINF:0,PrahovaTv
+http://89.45.186.26:1935/live/prahovatv/playlist.m3u8
+#EXTINF:0,pptvhd
+http://pr06ed011.dcs-cdn.com/ch2/en1yua.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,PPTVHD
+http://127.0.0.1:65007/?url=ch25&mode=15
+#EXTINF:0,pptvhd
+http://pr05ed002.dcs-cdn.com/ch1/th1pba.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,POP
+http://127.0.0.1:65007/?url=320&mode=1
+#EXTINF:0,police tv
+http://live.netdesignhost.com/policetvlive/policetvlive/playlist.m3u8
+#EXTINF:0,POLAR
+http://live-m03.abweb.com/liveabm03/cinepolar.smil/master.m3u8
+#EXTINF:0,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,plus_tv_suceava
+http://85.186.146.34:8080
+#EXTINF:0,PloiestiTv
+http://nginx.arya.ro:8080/hls/ptvmobil.m3u8
+#EXTINF:0,Planet Turk
+http://127.0.0.1:65007/?url=176%3B%3Bplanett&mode=6
+#EXTINF:0,Planet Pembe
+http://127.0.0.1:65007/?url=176&mode=6
+#EXTINF:0,Planet Mutfak
+http://127.0.0.1:65007/?url=177&mode=6
+#EXTINF:0,Planet Cocuk
+http://127.0.0.1:65007/?url=175&mode=6
+#EXTINF:0,piksel
+http://127.0.0.1:65007/?url=piksel&mode=30
+#EXTINF:0,pik tv sd
+rtmp://78.140.209.14:1935/live/ playpath=piktv2pik2tv swfUrl=http://pik-tv.com/uppod.swf pageUrl=http://pik-tv.com/online/sait/
+#EXTINF:0,pik tv hd
+rtmp://78.140.209.14:1935/live/ playpath=piktv3pik3tv swfUrl=http://pik-tv.com/uppod.swf pageUrl=http://pik-tv.com/online/sait/
+#EXTINF:0,Pick TV
+http://127.0.0.1:65007/?url=371&mode=1
+#EXTINF:0,Phoenix
+http://127.0.0.1:65007/?url=424%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,pervyjj kanal
+http://127.0.0.1:65007/?url=339-pervyjj-kanal&mode=28
+#EXTINF:0,Perviy kanal Europa
+http://127.0.0.1:65007/?url=1735%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,peretz tv
+http://127.0.0.1:65007/?url=1743-peretz-tv&mode=28
+#EXTINF:0,Perec TV
+http://127.0.0.1:65007/?url=perec-tv-online&mode=25
+#EXTINF:0,paramount comedy
+http://127.0.0.1:65007/?url=2611-paramount-comedy&mode=28
+#EXTINF:0,Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Washington)
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_1164_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,PAC-12 Net. (National)
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,Pac National 1080 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,Pac Mountain 1080 HD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:0,Pac Los Angeles 1080 HD
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:0,Pac Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:0,Pac Arizona 1080 HD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,Ozzie & Harriet
+http://127.0.0.1:65007/?url=2960&mode=1
+#EXTINF:0,outdoor channel
+http://127.0.0.1:65007/?url=254-outdoor-channel&mode=29
+#EXTINF:0,ORT
+http://127.0.0.1:65007/?url=ort-russia-online&mode=25
+#EXTINF:0,ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,onehd
+http://111.223.36.1/teleplus_gmmone.m3u8
+#EXTINF:0,onehd
+http://202.142.220.224:1935/gmmone/gmmone/playlist.m3u8
+#EXTINF:0,onehd
+rtmp://202.142.220.224:1935/gmmone playpath=gmmone swfUrl=http://www.onehd.net//jwplayer/player.swf pageUrl=http://www.onehd.net/live
+#EXTINF:0,One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0,One Step Beyond
+http://127.0.0.1:65007/?url=2963&mode=1
+#EXTINF:0,ONE By UHD 2160P 4K
+http://rtmp.one.by:1400/
+#EXTINF:0,ONE By SD
+rtmp://rtmp.one.by/SD/ playpath=1muz swfUrl=http://stream.one.by/jw/jwplayer.flash.swf pageUrl=http://stream.one.by/
+#EXTINF:0,One By RUSSIA HD 720P
+http://rtmp.one.by:2300/
+#EXTINF:0,ONE By HD 1080P
+http://rtmp.one.by:1300/
+#EXTINF:0,Om Nom
+http://127.0.0.1:65007/?url=3824&mode=1
+#EXTINF:0,Ocko Gold
+http://se02.se.ocko-live.service.cdn.cra.cz/playlist/live/ocko_gold/live_hq.m3u8
+#EXTINF:0,Ocko Expres
+http://ocko-live.service.cdn.cra.cz/playlist/live/ocko_expres/live_hq.m3u8
+#EXTINF:0,NUMBER ONE TURK
+http://mn-l.mncdn.com/birnumaramedya_live/nr1_turk.sdp/playlist.m3u8
+#EXTINF:0,NUMBER ONE HD
+http://mn-l.mncdn.com/birnumaramedya_live/nr1tv.sdp/playlist.m3u8
+#EXTINF:0,NTV Football 3
+http://127.0.0.1:65007/?url=ntvplus-futbol3-online&mode=25
+#EXTINF:0,NTV Football 2
+http://127.0.0.1:65007/?url=ntvplus-futbol2-online&mode=25
+#EXTINF:0,NTV Football
+http://127.0.0.1:65007/?url=ntvplus-futbol-online&mode=25
+#EXTINF:0,ntv
+http://127.0.0.1:65007/?url=1256-ntv&mode=28
+#EXTINF:0,NTV
+http://127.0.0.1:65007/?url=ntv-russia-online&mode=25
+#EXTINF:0,NowTV
+http://127.0.0.1:65007/?url=https%3A//youtu.be/ftL82bBPjgc&mode=3
+#EXTINF:0,NOW26
+http://nationstream.nationgroup.com/live.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,now26
+http://127.0.0.1:65007/?url=ch32&mode=15
+#EXTINF:0,NOVA
+Http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-p.m3u8
+#EXTINF:0,Nova
+https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
+#EXTINF:0,NickJR
+http://127.0.0.1:65007/?url=288-nick-jr&mode=29
+#EXTINF:0,NickJR
+http://127.0.0.1:65007/?url=2610-nickjr&mode=28
+#EXTINF:0,nickelodeon
+http://127.0.0.1:65007/?url=9-nickelodeon&mode=29
+#EXTINF:0,nickelodeon
+http://127.0.0.1:65007/?url=nickelodeon&mode=30
+#EXTINF:0,nickelodeon
+http://127.0.0.1:65007/?url=2588-nickelodeon&mode=28
+#EXTINF:0,NewsMAX
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Da4uUEXZjigo&mode=3
+#EXTINF:0,NewsMAX
+http://127.0.0.1:65007/?url=3223&mode=1
+#EXTINF:0,news one ukr
+http://127.0.0.1:65007/?url=204&mode=6
+#EXTINF:0,new tv
+http://127.0.0.1:65007/?url=ch30&mode=15
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhls/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
+#EXTINF:0,NDTV 24x7
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/master.m3u8
+#EXTINF:0,NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:0,nbt
+http://127.0.0.1:65007/?url=ch11&mode=15
+#EXTINF:0,nbc golf sd
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,nbc golf 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,nbc golf 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,NBC
+http://127.0.0.1:65007/?url=nbc&mode=47
+#EXTINF:0,National Geographic RU
+http://127.0.0.1:65007/?url=en/channels/National%2520Geographic&mode=24
+#EXTINF:0,National Geographic
+http://127.0.0.1:65007/?url=ngrus&mode=23
+#EXTINF:0,nation
+http://61.47.34.38/nation/nationlive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,nation
+http://127.0.0.1:65007/?url=ch37&mode=15
+#EXTINF:0,Nat. Geo. AD
+rtmp://web5.iptv-planet.com:1937/live2 playpath=natgeographic?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=natgeographic&width=594&height=404&key2=1118
+#EXTINF:0,Nat Geo Wild RU
+http://127.0.0.1:65007/?url=en/channels/National%2520Geographic%2520Wild&mode=24
+#EXTINF:0,Nash Football
+http://127.0.0.1:65007/?url=nash-futbol-online&mode=25
+#EXTINF:0,NASA HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:0,NASA HD
+http://127.0.0.1:65007/?url=330&mode=1
+#EXTINF:0,N24
+http://127.0.0.1:65007/?url=n24&mode=47
+#EXTINF:0,N-TV
+http://127.0.0.1:65007/?url=1033%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,my planet
+http://127.0.0.1:65007/?url=moya-planeta&mode=30
+#EXTINF:0,music Vox TV
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,Music Box Ukraine
+rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html
+#EXTINF:0,Music Box Russia
+rtmp://musicbox.cdnvideo.ru:1935/musicbox playpath=musicbox.sdp swfUrl=http://www.aloha.cdnvideo.ru/aloha/slon/SlonPlayer_adv.swf pageUrl=http://www.russianmusicbox.tv/
+#EXTINF:0,MTV HITS
+http://127.0.0.1:65007/?url=mtv-hits-tv-online&mode=25
+#EXTINF:0,MTV HITS
+http://127.0.0.1:65007/?url=159-mtv-hits&mode=29
+#EXTINF:0,MTV DANCE
+http://127.0.0.1:65007/?url=161-mtv-dance&mode=29
+#EXTINF:0,MSNBC
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,MSNBC
+rtmp://dayfdd.cdn.newschat.tv/edge playpath=msnbc_live swfUrl=http://newschat.tv/player.swf swfVfy=1 live=1 pageUrl=http://www.livenewschat.eu/politics/ timeout=15
+#EXTINF:0,Moskva 24
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8
+#EXTINF:0,More4
+http://127.0.0.1:65007/?url=97&mode=1
+#EXTINF:0,MONO29
+http://127.0.0.1:65007/?url=ch38&mode=15
+#EXTINF:0,money channel
+http://127.0.0.1:65007/?url=ch24&mode=15
+#EXTINF:0,modern india
+http://103.40.138.89:1935/live/modernindia/playlist.m3u8
+#EXTINF:0,minika GO
+http://127.0.0.1:65007/?url=84%3B%3Bminika_go/minika_go&mode=6
+#EXTINF:0,minika COCUK
+http://127.0.0.1:65007/?url=84%3B%3Bminika_cocuk&mode=6
+#EXTINF:0,MGM
+http://127.0.0.1:65007/?url=234-mgm&mode=29
+#EXTINF:0,Mello TV
+http://mellotvnew.tulix.tv/live/smil:mellotv.smil/chunklist_w1800524040_b2328000_sleng.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mega/geomega_1@328914/index_4_av-p.m3u8
+#EXTINF:0,mega
+http://127.0.0.1:65007/?url=mega&mode=23
+#EXTINF:0,media news
+http://127.0.0.1:65007/?url=ch1&mode=15
+#EXTINF:0,MCOT1
+rtmp://lb-media.mcot.net:1935/mcot1_edge/ playpath=mcot1.stream swfUrl=http://image.mcot.net/media/jwplayer7/jwplayer.flash.swf pageUrl=http://www.mcot.net/mcot1
+#EXTINF:0,MCOT WORLD
+rtmp://lb-media.mcot.net:1935/mcotworld_edge/ playpath=mcotworld.stream swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/mcotworld
+#EXTINF:0,mcot 9
+http://127.0.0.1:65007/?url=ch9&mode=15
+#EXTINF:0,MCM TOP
+http://127.0.0.1:65007/?url=285-msm-tor&mode=29
+#EXTINF:0,MBC MAX HD
+rtmp://web3.iptv-planet.com:81/live2 playpath=Hi_mbcmax?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcmax&width=594&height=404&key2=1118
+#EXTINF:0,MBC HD
+rtmp://web3.iptv-planet.com:81/live2 playpath=Hi_mbc1?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbc1&width=594&height=404&key2=1118
+#EXTINF:0,MBC Bollywood
+rtmp://web6.iptv-planet.com:1937/live2 playpath=Hi_mbcbw?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcbw&width=594&height=404&key2=1118
+#EXTINF:0,MBC Action HD
+rtmp://web5.iptv-planet.com:1937/live2 playpath=Hi_mbcaction?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbcaction&width=594&height=404&key2=1118
+#EXTINF:0,MBC 4 HD
+rtmp://web3.iptv-planet.com:81/live2 playpath=Hi_mbc4?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbc4&width=594&height=404&key2=1118
+#EXTINF:0,MBC 3
+rtmp://web3.iptv-planet.com:1937/live2 playpath=Hi_mbc3?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbc3&width=594&height=404&key2=1118
+#EXTINF:0,MBC 2 HD
+rtmp://web5.iptv-planet.com:81/live2 playpath=Hi_mbc2?hashedkey=077111110032077097114032048054032048051032050051 swfUrl=http://embed.iptv-pla.net/swfs/player.swf pageUrl=http://embed.iptv-pla.net/embed.php?id=Hi_mbc2&width=594&height=404&key2=1118
+#EXTINF:0,matele
+http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
+#EXTINF:0,Mangas
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/master.m3u8
+#EXTINF:0,Major Crimes
+http://127.0.0.1:65007/?url=3095&mode=1
+#EXTINF:0,Magazine
+rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo
+#EXTINF:0,MAD CY
+rtmp://eradio.networksolutions.com.cy/live/ playpath=livestream swfUrl=http://jwplayer.mediaserve.com/player.swf pageUrl=http://madtv.networksolutions.com.cy/player/
+#EXTINF:0,M6 Music
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0,M6
+http://127.0.0.1:65007/?url=regarder_m6&mode=47
+#EXTINF:0,M6
+http://127.0.0.1:65007/?url=m6-direct&mode=39
+#EXTINF:0,M5
+http://127.0.0.1:65007/?url=mtv5&mode=36
+#EXTINF:0,M4 Sport
+http://127.0.0.1:65007/?url=mtv4&mode=36
+#EXTINF:0,m2o TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:0,M2
+http://127.0.0.1:65007/?url=mtv2&mode=36
+#EXTINF:0,M1
+http://127.0.0.1:65007/?url=mtv1&mode=36
+#EXTINF:0,M channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:0,Lucky Jack TV
+http://live-m03.abweb.com/liveabm03/luckyjack.smil/master.m3u8
+#EXTINF:0,Lotus Macau
+http://live-hls.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,LCP
+http://127.0.0.1:65007/?url=3887&mode=1
+#EXTINF:0,LATELE
+http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:0,lasexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+#EXTINF:0,LA7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/index_2_av-p.m3u8
+#EXTINF:0,LA2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
+#EXTINF:0,LA1
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl7-la1lv3aomgl7/_definst_/live.m3u8
+#EXTINF:0,LA trois
+http://127.0.0.1:65007/?url=la-trois&mode=47
+#EXTINF:0,La Otra
+http://laotra-live.hls.adaptive.level3.net/hls-live/telemadrid-laotra/_definst_/live.m3u8
+#EXTINF:0,LA Deux
+http://127.0.0.1:65007/?url=regarder-la-deux&mode=47
+#EXTINF:0,Kung Fu Classics
+http://127.0.0.1:65007/?url=1967&mode=1
+#EXTINF:0,KRAL TV
+http://127.0.0.1:65007/?url=84%3B%3Bkraltv&mode=6
+#EXTINF:0,Kral POP
+http://127.0.0.1:65007/?url=84&mode=6
+#EXTINF:0,kplus-asia
+rtmp://118.97.183.196/jhos//kplus
+#EXTINF:0,Konyha TV
+rtmpt://91.82.85.44:1935/live playpath=konyhatv swfUrl=http://wdsonline.gdsinfo.com/itplayer/player.swf pageUrl=http://wdsonline.gdsinfo.com/itplayer/konyhatv_inc.php
+#EXTINF:0,Kix!
+http://127.0.0.1:65007/?url=316&mode=1
+#EXTINF:0,Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.kisstelevision.es/
+#EXTINF:0,KIKA
+http://127.0.0.1:65007/?url=kika&mode=47
+#EXTINF:0,KIKA
+http://127.0.0.1:65007/?url=2756%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Kid's Rock TV
+http://127.0.0.1:65007/?url=3677&mode=1
+#EXTINF:0,KHL
+http://127.0.0.1:65007/?url=2612-khl&mode=28
+#EXTINF:0,KHL
+http://127.0.0.1:65007/?url=khl-tv&mode=30
+#EXTINF:0,KBS World
+rtmp://118.97.183.196/jhos//kbs
+#EXTINF:0,KBS World
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DPUl4hiEOXSo&mode=3
+#EXTINF:0,karusel
+http://127.0.0.1:65007/?url=karusel&mode=30
+#EXTINF:0,Kartoon Klassics
+http://127.0.0.1:65007/?url=793&mode=1
+#EXTINF:0,kanal D
+http://80.86.107.169:8100/stream.flv
+#EXTINF:0,Kanal 7
+http://127.0.0.1:65007/?url=199&mode=6
+#EXTINF:0,KABEL1
+http://127.0.0.1:65007/?url=kabel-eins&mode=47
+#EXTINF:0,K2
+http://127.0.0.1:65007/?url=k2&mode=23
+#EXTINF:0,K1
+http://127.0.0.1:65007/?url=k1&mode=23
+#EXTINF:0,JLTV
+http://52.40.109.131:1935/rtplive/smil:jltv.smil/playlist.m3u8
+#EXTINF:0,JCTV
+http://livejctv.aitstreaming.com:1935/live/mobile.sdp/playlist.m3u8
+#EXTINF:0,JBTV
+http://127.0.0.1:65007/?url=2999&mode=1
+#EXTINF:0,Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+#EXTINF:0,ITVBe
+http://127.0.0.1:65007/?url=itv-2&mode=47
+#EXTINF:0,ITVBe
+http://127.0.0.1:65007/?url=3211&mode=1
+#EXTINF:0,ITV4 +1
+http://127.0.0.1:65007/?url=1826&mode=1
+#EXTINF:0,ITV4
+http://127.0.0.1:65007/?url=101&mode=1
+#EXTINF:0,ITV4
+http://127.0.0.1:65007/?url=itv4&mode=47
+#EXTINF:0,ITV3 +1
+http://127.0.0.1:65007/?url=1823&mode=1
+#EXTINF:0,ITV3
+http://127.0.0.1:65007/?url=26&mode=1
+#EXTINF:0,ITV3
+http://127.0.0.1:65007/?url=itv3&mode=47
+#EXTINF:0,ITV2 +1
+http://127.0.0.1:65007/?url=1820&mode=1
+#EXTINF:0,ITV2
+http://127.0.0.1:65007/?url=67&mode=1
+#EXTINF:0,ITV2
+http://127.0.0.1:65007/?url=itv2-live&mode=47
+#EXTINF:0,ITV1 +1
+http://127.0.0.1:65007/?url=1817&mode=1
+#EXTINF:0,ITV1
+http://127.0.0.1:65007/?url=11&mode=1
+#EXTINF:0,iTELE
+http://127.0.0.1:65007/?url=http%3A//hds_live_itv_aka-lh.akamaihd.net/z/itv_hds%40179599/manifest.f4m%26hdcore%3D2.11.3%26g%3DNAPCTPXUXMHG&mode=3
+#EXTINF:0,iTELE
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/index.m3u8
+#EXTINF:0,Intereconomia
+http://edge3.adnstream.com:81/hls/intereconomia.m3u8
+#EXTINF:0,inter
+http://127.0.0.1:65007/?url=inter&mode=23
+#EXTINF:0,inter
+http://127.0.0.1:65007/?url=1054-inter&mode=28
+#EXTINF:0,Insight HD
+http://ooyalahd2-f.akamaihd.net/i/intv02_delivery@346464/index_5128_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,indiya tv
+http://127.0.0.1:65007/?url=indiya-tv&mode=30
+#EXTINF:0,Illuzion TV
+http://127.0.0.1:65007/?url=illuzion-plus-tv-online&mode=25
+#EXTINF:0,ILand
+http://146.185.61.140:1935/live/myStream/playlist.m3u8
+#EXTINF:0,iFilm
+http://127.0.0.1:65007/?url=313&mode=6
+#EXTINF:0,ID Xtra
+http://127.0.0.1:65007/?url=en/channels/ID%2520Xtra&mode=24
+#EXTINF:0,Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:0,iasi_tv_life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0,i24News France
+http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/fr/tv/live&mode=18
+#EXTINF:0,i24News English
+http://127.0.0.1:65007/?url=4109%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,i24News English
+http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/en/tv/live&mode=18
+#EXTINF:0,i24News Arabic
+http://127.0.0.1:65007/?url=http%3A//www.i24news.tv/ar/tv/live&mode=18
+#EXTINF:0,Hunter and Fisher
+http://127.0.0.1:65007/?url=ohotnik-i-rybolov&mode=30
+#EXTINF:0,Huesca Television
+rtmp://streaming2.radiohuesca.com/live swfUrl=http://www.radiohuesca.com/swf/JWPlayer/player.swf pageUrl=http://www.radiohuesca.com/directo-htv playpath=huescatv live=true
+#EXTINF:0,HTH
+http://127.0.0.1:65007/?url=ntn&mode=23
+#EXTINF:0,HTB
+http://127.0.0.1:65007/?url=6-ntv&mode=29
+#EXTINF:0,Horror Channel
+http://127.0.0.1:65007/?url=836&mode=1
+#EXTINF:0,HLN
+rtmp://micro.cdn.newschat.tv/edge playpath=hln_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/twoons/
+#EXTINF:0,history TV
+http://127.0.0.1:65007/?url=viasat-history-online&mode=25
+#EXTINF:0,History channel
+http://127.0.0.1:65007/?url=history&mode=30
+#EXTINF:0,history channel
+http://127.0.0.1:65007/?url=208-history-channel&mode=29
+#EXTINF:0,History
+http://127.0.0.1:65007/?url=en/channels/History&mode=24
+#EXTINF:0,Hispan TV
+http://178.32.255.199:1935/live/hispantv/playlist.m3u8
+#EXTINF:0,Hispan TV
+http://127.0.0.1:65007/?url=1997%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,hir TV
+http://streamserver.mno.netrix.hu/delayed.php.m3u8
+#EXTINF:0,Hi-Sport
+http://203.154.243.88:1935/live/hisportsd.stream/playlist.m3u8
+#EXTINF:0,Hi-indo
+rtmp://118.97.183.196/jhos//hiindo
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,HCT
+http://127.0.0.1:65007/?url=2602-nst&mode=28
+#EXTINF:0,Halk TV
+http://127.0.0.1:65007/?url=228&mode=6
+#EXTINF:0,HABER TURK
+http://mn-l.mncdn.com/haberturk/haberturk2/playlist.m3u8
+#EXTINF:0,f_auto - h_540,q_80,w_720/v1/218265/REV_N-LOGO-7_dv2zqt.png",Rev'nTV
+http://127.0.0.1:65007/?url=279&mode=6
+#EXTINF:0,gulli
+http://127.0.0.1:65007/?url=195-gulli&mode=29
+#EXTINF:0,Gulli
+http://127.0.0.1:65007/?url=regarder_gulli&mode=47
+#EXTINF:0,gotv music
+rtmp://nstream17.gotv.at:1936/live playpath=gotvlive_576p swfUrl=http://www.gotv.at/stream/flowplayer/flowplayer-3.2.18.swf pageUrl=http://www.gotv.at/stream/?q=H
+#EXTINF:0,GOOD TV Asean
+http://111.223.36.1/tp_nitipon_ch.m3u8
+#EXTINF:0,GONG
+http://ec.playmedia.fr:1935/gong-base/live/.m3u8
+#EXTINF:0,golfchannel
+http://live-trl102.abweb.com/liveabtrl102/ngrp:golfchannel.stream_bis/master.m3u8
+#EXTINF:0,GMM25
+http://127.0.0.1:65007/?url=ch0&mode=15
+#EXTINF:0,GFL Combat Sports
+http://127.0.0.1:65007/?url=3251%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,gangcartoon
+rtmp://202.43.34.234/CAR/ playpath=s1 swfUrl=http://www.stat.or.th/v3/jwplayer6/jwplayer.flash.swf pageUrl=http://www.stat.or.th/v3/flash.php?ch=CAR
+#EXTINF:0,G360
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+#EXTINF:0,Fun Little Kids
+http://127.0.0.1:65007/?url=1861&mode=1
+#EXTINF:0,France24 France
+http://127.0.0.1:65007/?url=190%3B%3BFrance24Fr/france24fr&mode=6
+#EXTINF:0,France24 France
+http://static.france24.com/live/F24_FR_LO_HLS/live_ios.m3u8
+#EXTINF:0,France24 France
+http://127.0.0.1:65007/?url=2792%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,France24 France
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_500.m3u8
+#EXTINF:0,France24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:0,France24 English
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,France24 English
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D2JnKgrsMZXQ&mode=3
+#EXTINF:0,France24 English
+rtmp://micro.cdn.newschat.tv/edge playpath=france24_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/france-24-english-chat/
+#EXTINF:0,France24 English
+http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/france24-mobile.3gp.m3u8?trackingid=4350010000&os=desktopv3
+#EXTINF:0,France24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_500.m3u8
+#EXTINF:0,France24 English
+http://127.0.0.1:65007/?url=93&mode=6
+#EXTINF:0,France24 English
+http://127.0.0.1:65007/?url=298%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,France24 Arabic
+http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_500.m3u8
+#EXTINF:0,France24 Arabic
+http://127.0.0.1:65007/?url=2789%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,France24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_ios.m3u8
+#EXTINF:0,France o
+http://127.0.0.1:65007/?url=france-o-direct&mode=39
+#EXTINF:0,France o
+http://127.0.0.1:65007/?url=3884&mode=1
+#EXTINF:0,France o
+http://127.0.0.1:65007/?url=regarder_franceo&mode=47
+#EXTINF:0,France 5
+http://127.0.0.1:65007/?url=regarder_france5&mode=47
+#EXTINF:0,France 5
+http://127.0.0.1:65007/?url=1720&mode=1
+#EXTINF:0,France 5
+http://127.0.0.1:65007/?url=france-5-direct&mode=39
+#EXTINF:0,France 4
+http://127.0.0.1:65007/?url=3905&mode=1
+#EXTINF:0,France 4
+http://127.0.0.1:65007/?url=regarder_france4&mode=47
+#EXTINF:0,France 4
+http://127.0.0.1:65007/?url=france-4-direct&mode=39
+#EXTINF:0,France 3 Rhone
+http://127.0.0.1:65007/?url=3890&mode=1
+#EXTINF:0,France 3 Alpes
+http://127.0.0.1:65007/?url=3893&mode=1
+#EXTINF:0,France 3
+http://127.0.0.1:65007/?url=1723%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,France 3
+http://127.0.0.1:65007/?url=france-3-direct&mode=39
+#EXTINF:0,France 3
+http://127.0.0.1:65007/?url=regarder_france3&mode=47
+#EXTINF:0,France 2
+http://127.0.0.1:65007/?url=france-2-direct&mode=39
+#EXTINF:0,France 2
+http://127.0.0.1:65007/?url=1717%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,France 2
+http://127.0.0.1:65007/?url=regarder_france2&mode=47
+#EXTINF:0,Fox News
+http://127.0.0.1:65007/?url=fox-news-channel&mode=47
+#EXTINF:0,FOX HD
+http://foxtv-i.mncdn.com/foxtv/foxtv3/chunklist_w2083793909.m3u8
+#EXTINF:0,FOX
+http://127.0.0.1:65007/?url=fox-broadcasting-company&mode=47
+#EXTINF:0,FOX
+http://tv02.thaizatv.com:1935/drm/ft.stream/playlist.m3u8
+#EXTINF:0,Food Network +1
+http://127.0.0.1:65007/?url=1829&mode=1
+#EXTINF:0,Food Network
+http://127.0.0.1:65007/?url=20&mode=1
+#EXTINF:0,Food Channel
+rtmp://iran.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/food/
+#EXTINF:0,FixHD
+rtmp://video.fixhd.tv/fix/hd.stream
+#EXTINF:0,five
+http://103.40.138.89:1935/live/five/playlist.m3u8
+#EXTINF:0,FilmOn Kids
+http://127.0.0.1:65007/?url=7&mode=1
+#EXTINF:0,FilmOn Horror Network
+http://127.0.0.1:65007/?url=1684&mode=1
+#EXTINF:0,Film4
+http://127.0.0.1:65007/?url=13&mode=1
+#EXTINF:0,fight sport
+rtmp://118.97.183.196/jhos//fight
+#EXTINF:0,Fehervar TV
+rtmp://91.82.85.71:1935/liverelay/fehervartv.sdp
+#EXTINF:0,FB TV
+http://127.0.0.1:65007/?url=216%3B%3Bfbtv1/fb-tv&mode=6
+#EXTINF:0,Fashion TV
+http://127.0.0.1:65007/?url=21%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Fashion TV
+http://127.0.0.1:65007/?url=ftv&mode=23
+#EXTINF:0,Fashion TV
+rtmp://118.97.183.196/jhos//fashiontv
+#EXTINF:0,Fashion One
+http://127.0.0.1:65007/?url=34&mode=6
+#EXTINF:0,Fashion One
+http://127.0.0.1:65007/?url=4106&mode=1
+#EXTINF:0,Fashion One
+rtmp://118.97.183.196/jhos//fashionone
+#EXTINF:0,fan TV
+rtmp://202.43.34.234/FAN/ playpath=s1 swfUrl=http://www.stat.or.th/v3/jwplayer6/jwplayer.flash.swf pageUrl=http://www.stat.or.th/v3/flash.php?ch=FAN
+#EXTINF:0,extreme sports
+http://127.0.0.1:65007/?url=250-extreme-sports&mode=29
+#EXTINF:0,explorer TV
+http://127.0.0.1:65007/?url=viasat-explorer-online&mode=25
+#EXTINF:0,eurosport 2 RU
+http://127.0.0.1:65007/?url=en/channels/Eurosport%25202&mode=24
+#EXTINF:0,eurosport 2
+http://127.0.0.1:65007/?url=eurosport2&mode=23
+#EXTINF:0,eurosport 1 RU
+http://127.0.0.1:65007/?url=en/channels/Eurosport%25201&mode=24
+#EXTINF:0,eurosport
+http://127.0.0.1:65007/?url=eurosport&mode=23
+#EXTINF:0,Europa Plus TV
+http://hls.europaplus.cdnvideo.ru/sg1/hires_eptv_main.sdp/chunklist.m3u8
+#EXTINF:0,Euronews Ukraine
+http://127.0.0.1:65007/?url=euronews-ukr&mode=23
+#EXTINF:0,euronews Turkishe
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/tr_vidan750_rtp.sdp
+#EXTINF:0,Euronews Turkish
+http://127.0.0.1:65007/?url=216%3B%3Beuronewsturkish&mode=6
+#EXTINF:0,Euronews Spanish
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/es_vidan750_rtp.sdp
+#EXTINF:0,Euronews Russian
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ru_vidan750_rtp.sdp
+#EXTINF:0,Euronews RU
+http://127.0.0.1:65007/?url=en/channels/Euronews&mode=24
+#EXTINF:0,Euronews Portuguese
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:0,Euronews Portugal
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:0,Euronews Italian
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/it_vidan750_rtp.sdp
+#EXTINF:0,Euronews Italian
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_it.m3u8
+#EXTINF:0,Euronews German
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/de_vidan750_rtp.sdp
+#EXTINF:0,Euronews French
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
+#EXTINF:0,Euronews English
+rtmp://dayfdd.cdn.newschat.tv/edge playpath=euronews_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/euronews-english-chat/
+#EXTINF:0,Euronews English
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DNxid1JTdfrk&mode=3
+#EXTINF:0,Euronews English
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+#EXTINF:0,Euronews English
+http://127.0.0.1:65007/?url=675&mode=6
+#EXTINF:0,Euronews English
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8
+#EXTINF:0,Euronews Arabic
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/ar_vidan750_rtp.sdp
+#EXTINF:0,ETV
+http://61.19.244.112:1935/live/livestream/playlist.m3u8
+#EXTINF:0,Eska Wawa TV Polska
+rtmp://stream.smcloud.net/tv/wawa/wawa_360p
+#EXTINF:0,Eska Tv
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0,eska rock
+rtmp://stream.smcloud.net/tv/eska_rock/eska_rock_360p
+#EXTINF:0,eska polo
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,eska party
+rtmp://stream.smcloud.net/tv/eska_party/eska_party_360p
+#EXTINF:0,eska best Music
+rtmp://stream.smcloud.net/tv/best/best_360p
+#EXTINF:0,esan tv
+http://103.40.138.89:1935/live/esan/playlist.m3u8
+#EXTINF:0,enter film
+http://127.0.0.1:65007/?url=enter-film&mode=30
+#EXTINF:0,ENCA
+http://urtmpkal-f.akamaihd.net/i/1ciwepkyc_1@431710/master.m3u8
+#EXTINF:0,EM TV
+http://127.0.0.1:65007/?url=208&mode=6
+#EXTINF:0,el 13
+http://prepublish.f.qaotic.net/a03/ngrp:el13_live01-100083_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0,eins festival
+http://127.0.0.1:65007/?url=421%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,ECO99FM
+http://99.livecdn.biz/99fm_aac?type=.flv
+#EXTINF:0,Ebru TV
+http://127.0.0.1:65007/?url=47&mode=6
+#EXTINF:0,E4
+http://127.0.0.1:65007/?url=65&mode=1
+#EXTINF:0,DxTV
+http://186.33.227.199/DXTV/smil:DXTV.smil/chunklist_w788509661_b800000_slesp.m3u8
+#EXTINF:0,DW Latino
+http://127.0.0.1:65007/?url=4319%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,DW Latino
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0,DW English
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DgNosnzCaS4I&mode=3
+#EXTINF:0,DW English
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0,DW English
+http://127.0.0.1:65007/?url=2641%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,DW Arabic
+http://127.0.0.1:65007/?url=2693%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,DW Arabic
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:0,Duna World
+http://127.0.0.1:65007/?url=duna-world&mode=36
+#EXTINF:0,Duna
+http://127.0.0.1:65007/?url=duna&mode=36
+#EXTINF:0,Dubai Sports 3
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0,Dubai Sports
+http://127.0.0.1:65007/?url=79%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Dubai Racing
+http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:0,Dubai One
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:0,DTV Diputados
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:0,Dream TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,Double Feature TV
+http://127.0.0.1:65007/?url=1693&mode=1
+#EXTINF:0,domkino
+http://127.0.0.1:65007/?url=domkino&mode=30
+#EXTINF:0,Domashniy
+http://127.0.0.1:65007/?url=domashniy-tv-online&mode=25
+#EXTINF:0,domashnij
+http://127.0.0.1:65007/?url=1265-domashnij&mode=28
+#EXTINF:0,dom kino
+http://127.0.0.1:65007/?url=2594-dom-kino&mode=28
+#EXTINF:0,DMC
+http://live-us.dmc.tv/live/_definst_/th_platinum.stream/playlist.m3u8
+#EXTINF:0,DMC
+http://127.0.0.1:65007/?url=111&mode=6
+#EXTINF:0,Disney channel
+http://127.0.0.1:65007/?url=disney-channel&mode=30
+#EXTINF:0,disney
+http://127.0.0.1:65007/?url=13-kanal-disney&mode=29
+#EXTINF:0,disney
+http://127.0.0.1:65007/?url=2007-disney&mode=28
+#EXTINF:0,Discovery World
+http://127.0.0.1:65007/?url=discovery-world-tv-online&mode=25
+#EXTINF:0,Discovery TV
+http://127.0.0.1:65007/?url=discovery-channel-tv-online&mode=25
+#EXTINF:0,Discovery Science RU
+http://127.0.0.1:65007/?url=en/channels/Discovery%2520Science&mode=24
+#EXTINF:0,Discovery Science
+http://127.0.0.1:65007/?url=discovery-science-tv-online&mode=25
+#EXTINF:0,Discovery Channel
+http://127.0.0.1:65007/?url=en/channels/Discovery%2520Channel&mode=24
+#EXTINF:0,discovery
+http://127.0.0.1:65007/?url=discovery&mode=23
+#EXTINF:0,digi24
+http://81.196.0.126/digi24edge/digi24hdhqhls/chunklist_w1889311882.m3u8
+#EXTINF:0,diatenerife
+http://teledifusion.tv:1935/dia/dia/playlist.m3u8
+#EXTINF:0,Deluxe TV
+http://127.0.0.1:65007/?url=220&mode=6
+#EXTINF:0,DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:0,DAYSTAR
+http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_720p.m3u8
+#EXTINF:0,DAYSTAR
+http://127.0.0.1:65007/?url=109&mode=6
+#EXTINF:0,DAYSTAR
+http://127.0.0.1:65007/?url=833%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Davinci Learning
+http://127.0.0.1:65007/?url=en/channels/Davinci%2520Learning&mode=24
+#EXTINF:0,daserste
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8
+#EXTINF:0,daserste
+http://127.0.0.1:65007/?url=204%3B%3Bdaserste&mode=6
+#EXTINF:0,daserste
+http://127.0.0.1:65007/?url=4103&mode=1
+#EXTINF:0,dartv
+http://89.45.164.235:8042/stream.flv
+#EXTINF:0,da vinci learning
+http://127.0.0.1:65007/?url=291-da-vinci-learning&mode=29
+#EXTINF:0,D8
+http://127.0.0.1:65007/?url=d8-direct&mode=39
+#EXTINF:0,D17
+http://127.0.0.1:65007/?url=d17-direct&mode=39
+#EXTINF:0,CW
+http://127.0.0.1:65007/?url=the-cw&mode=47
+#EXTINF:0,CTC LOVE
+http://127.0.0.1:65007/?url=ctc-love&mode=30
+#EXTINF:0,CTC LOVE
+http://127.0.0.1:65007/?url=230-sts-love&mode=29
+#EXTINF:0,CTC
+http://127.0.0.1:65007/?url=11-sts&mode=29
+#EXTINF:0,CTC
+http://127.0.0.1:65007/?url=sts&mode=23
+#EXTINF:0,CTC
+http://127.0.0.1:65007/?url=1255-sts&mode=28
+#EXTINF:0,ComedyTime TV
+http://127.0.0.1:65007/?url=344&mode=1
+#EXTINF:0,CNN US
+rtmp://climate.cdn.newschat.tv/edge playpath=cnn_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/top/
+#EXTINF:0,CNN US
+http://127.0.0.1:65007/?url=cnn&mode=47
+#EXTINF:0,CNN TURK
+http://127.0.0.1:65007/?url=46-cnn-international&mode=29
+#EXTINF:0,CNN
+http://127.0.0.1:65007/?url=217%3B%3Bcnnint&mode=6
+#EXTINF:0,CNN
+rtmp://girlz.cdn.newschat.tv/edge playpath=cnni_live swfUrl=http://newschat.tv/player.swf swfVfy=1 live=1 pageUrl=http://www.livenewschat.eu/international timeout=15
+#EXTINF:0,CNC
+http://127.0.0.1:65007/?url=297&mode=6
+#EXTINF:0,CNBC
+rtmp://girlz.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://newschat.tv/player.swf swfVfy=1 live=1 pageUrl=http://www.livenewschat.eu/twoons timeout=15
+#EXTINF:0,CMC TV USA
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_1/CMCU swfUrl=http://http.vitalstreamcdn.com/flashskins/InapOSMFPlugin.swf live=1 pageUrl=http://www.cmctvusa.com/
+#EXTINF:0,CMC TV country
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_1/CMCC swfUrl=http://http.vitalstreamcdn.com/flashskins/InapOSMFPlugin.swf live=1 pageUrl=http://www.cmc-tv.com/
+#EXTINF:0,Clubbing TV
+http://127.0.0.1:65007/?url=play&mode=17
+#EXTINF:0,Clubbing TV
+http://127.0.0.1:65007/?url=play2&mode=17
+#EXTINF:0,Clubbing TV
+http://127.0.0.1:65007/?url=691&mode=1
+#EXTINF:0,Clubbing TV
+http://46.249.213.87/iPhone/broadcast/clubbingtv-tablet.3gp.m3u8
+#EXTINF:0,Clubbing TV
+http://live-m03.abweb.com/liveabm03/clubbingtv.smil/playlist.m3u
+#EXTINF:0,club rtl
+http://127.0.0.1:65007/?url=regarder-club-rtl&mode=47
+#EXTINF:0,ClickIsrael
+http://listen.clickfm.co.il/clickil
+#EXTINF:0,ClickHipHop
+http://listen.clickfm.co.il/hip.mp3
+#EXTINF:0,ClickFM
+http://listen.clickfm.co.il/clickfm
+#EXTINF:0,ClickCafe
+http://listen.clickfm.co.il/clickcafe
+#EXTINF:0,Click2Love
+http://listen.clickfm.co.il/click2love
+#EXTINF:0,Click2Dance
+http://listen.clickfm.co.il/click2dance
+#EXTINF:0,Classic Arts Showcase
+http://127.0.0.1:65007/?url=309&mode=1
+#EXTINF:0,CKCK CTV Regina
+http://127.0.0.1:65007/?url=2056%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,cityTV
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8
+#EXTINF:0,Ciné FX
+http://live-m03.abweb.com/liveabm03/cinefx.smil/master.m3u8
+#EXTINF:0,CICC CTV Yorkton
+http://127.0.0.1:65007/?url=2062%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Chillings
+http://127.0.0.1:65007/?url=2699&mode=1
+#EXTINF:0,Children's Reading Channel
+http://127.0.0.1:65007/?url=4160&mode=1
+#EXTINF:0,cherie25
+http://127.0.0.1:65007/?url=regarder_cherie25&mode=47
+#EXTINF:0,Chasse & Pêche
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/master.m3u8
+#EXTINF:0,Charlie Chaplin
+http://127.0.0.1:65007/?url=2966&mode=1
+#EXTINF:0,Channel U SINGAPORE
+http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel NewsAsia
+http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0,Channel 8 SINGAPORE
+http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel 5 SINGAPORE
+http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel 5
+http://127.0.0.1:65007/?url=22&mode=1
+#EXTINF:0,Channel 5
+http://127.0.0.1:65007/?url=channel-5&mode=47
+#EXTINF:0,Channel 4
+http://127.0.0.1:65007/?url=2&mode=1
+#EXTINF:0,channel 13
+http://stream.13livetv.com:1935/live/13livetv/playlist.m3u8
+#EXTINF:0,CH 8
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:0,CH 8
+http://stream.rs.co.th/ch8-hi/index.m3u8?d=web
+#EXTINF:0,ch 8
+http://127.0.0.1:65007/?url=ch33&mode=15
+#EXTINF:0,CH 5
+http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8
+#EXTINF:0,ch 5
+http://127.0.0.1:65007/?url=ch5&mode=15
+#EXTINF:0,ch 3 SD
+http://127.0.0.1:65007/?url=ch21&mode=15
+#EXTINF:0,ch 3
+http://127.0.0.1:65007/?url=ch3&mode=15
+#EXTINF:0,ch 2
+http://127.0.0.1:65007/?url=ch22&mode=15
+#EXTINF:0,CH 2
+http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
+#EXTINF:0,CFRN CTV Edmonton
+http://127.0.0.1:65007/?url=2053%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,CFCN-5 CTV Lethbridge
+http://127.0.0.1:65007/?url=2059%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,CCTV9 Documentary
+http://127.0.0.1:65007/?url=161&mode=6
+#EXTINF:0,CCTV9 Documentary
+http://127.0.0.1:65007/?url=2786%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,CCTV News
+http://127.0.0.1:65007/?url=1675%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,CCTV News
+http://127.0.0.1:65007/?url=cctv9&mode=8
+#EXTINF:0,CCTV News
+rtsp://wms.wcetv.net/cctv9-200
+#EXTINF:0,CCTV France
+http://127.0.0.1:65007/?url=cctvfrench&mode=8
+#EXTINF:0,CCTV France
+http://127.0.0.1:65007/?url=4118&mode=1
+#EXTINF:0,CBS Reality +1
+http://127.0.0.1:65007/?url=1811&mode=1
+#EXTINF:0,CBS Reality
+http://127.0.0.1:65007/?url=1808&mode=1
+#EXTINF:0,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,CBS News
+http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947
+#EXTINF:0,CBS Drama
+http://127.0.0.1:65007/?url=1805&mode=1
+#EXTINF:0,CBS Action
+http://127.0.0.1:65007/?url=1952&mode=1
+#EXTINF:0,CBS
+http://127.0.0.1:65007/?url=cbs&mode=47
+#EXTINF:0,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001
+#EXTINF:0,CBeebies
+http://127.0.0.1:65007/?url=3191&mode=1
+#EXTINF:0,CBC news
+rtmp://birds.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://newschat.tv/player.swf swfVfy=1 live=1 pageUrl=http://www.livenewschat.eu/canada/ timeout=15
+#EXTINF:0,CBBC
+http://127.0.0.1:65007/?url=bbc-3&mode=47
+#EXTINF:0,CBBC
+http://127.0.0.1:65007/?url=29&mode=1
+#EXTINF:0,Cat TV
+http://127.0.0.1:65007/?url=3614&mode=1
+#EXTINF:0,CAT CHANNEL
+http://61.19.18.237/live/m1.sdp/playlist.m3u8
+#EXTINF:0,cartoon network
+http://127.0.0.1:65007/?url=carton-network-russia-online&mode=25
+#EXTINF:0,cartoon network
+http://127.0.0.1:65007/?url=24-cartoon-network&mode=29
+#EXTINF:0,Cartoon network
+http://127.0.0.1:65007/?url=2590-cartoon-network&mode=28
+#EXTINF:0,cartoon network
+http://127.0.0.1:65007/?url=cartoon-network&mode=30
+#EXTINF:0,cartoon club
+http://127.0.0.1:65007/?url=ch31&mode=15
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:0,Canal Rural
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:0,Canal 7 Mendoza
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Dcmo6uqcWkXc&mode=3
+#EXTINF:0,Canal 4 (Misiones)
+rtmp://184.154.28.210:1935/canal4/canal4
+#EXTINF:0,canal 3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w312671014_b1264000_sleng.m3u8
+#EXTINF:0,CANAL 13 SAN JUAN
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DTCbLRVA1ip4&mode=3
+#EXTINF:0,Canal 10 Nuevo Mundo
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D30vEn02Lz7M&mode=3
+#EXTINF:0,Campy Channel
+http://127.0.0.1:65007/?url=3083&mode=1
+#EXTINF:0,Camera dei Deputati
+http://127.0.0.1:65007/?url=379&mode=1
+#EXTINF:0,CABLENOTICIAS
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D8woJb0SAJy0&mode=3
+#EXTINF:0,Cable TV
+http://202.173.216.8:1935/live/ch8/playlist.m3u8
+#EXTINF:0,C7 MURCIA
+http://194.14.241.171/80670-live0/_definst_/murciatv/chunklist_w1787608767.m3u8
+#EXTINF:0,C5N
+rtmp://c5n.stweb.tv/c5n/live
+#EXTINF:0,BYUtv
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:0,Bursa AS TV
+http://127.0.0.1:65007/?url=211&mode=6
+#EXTINF:0,BPTV
+http://cloudfront44.lexanetwork.com:1935/relay20/bptv.sdp/playlist.m3u8
+#EXTINF:0,boonniyomtv
+http://stream.boonniyom.tv:1935/live/fmtv/playlist.m3u8
+#EXTINF:0,boomerang
+http://127.0.0.1:65007/?url=156-boomerang&mode=29
+#EXTINF:0,Bonanza
+http://127.0.0.1:65007/?url=2957&mode=1
+#EXTINF:0,boec
+http://127.0.0.1:65007/?url=boec&mode=30
+#EXTINF:0,bluesky
+http://127.0.0.1:65007/?url=ch34&mode=15
+#EXTINF:0,blue sky news
+http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8
+#EXTINF:0,bloomberg ht
+http://mn-i.mncdn.com/bloomberght_ios/smil:bloomberght.smil/chunklist_w668226506_b848000.m3u8
+#EXTINF:0,Bloomberg
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:0,Bloomberg
+http://127.0.0.1:65007/?url=253-bloomberg&mode=29
+#EXTINF:0,Bloomberg
+http://127.0.0.1:65007/?url=217&mode=6
+#EXTINF:0,Bloomberg
+http://127.0.0.1:65007/?url=81%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Bloomberg
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DGa3maNZ0x0w&mode=3
+#EXTINF:0,Bloomberg
+rtmp://dayfdd.cdn.newschat.tv/edge playpath=bloomberg_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/bloombug/
+#EXTINF:0,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0,Bloomberg
+http://btvuk-i.akamaihd.net/hls/live/203321-b/btvuk_ios/P1/M24K.m3u8
+#EXTINF:0,Bloodzillathon
+http://127.0.0.1:65007/?url=2948&mode=1
+#EXTINF:0,BFM TV BUSINESS
+http://127.0.0.1:65007/?url=4124&mode=1
+#EXTINF:0,BFM TV
+http://127.0.0.1:65007/?url=2765&mode=1
+#EXTINF:0,BFM SPORT
+http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-4.m3u8
+#EXTINF:0,BFM PARIS
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/index_1024_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Beyaz TV
+http://127.0.0.1:65007/?url=394%3B%3Bbeyaztv&mode=6
+#EXTINF:0,Berita Satu
+rtmp://118.97.183.196/jhos//beritasatu
+#EXTINF:0,Bengu Turk
+http://127.0.0.1:65007/?url=390%3B%3Bbengu_turk&mode=6
+#EXTINF:0,BBC World News
+rtmp://argos.cdn.newschat.tv/edge playpath=bbcwn_live swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1 timeout=15
+#EXTINF:0,BBC World News
+http://127.0.0.1:65007/?url=162-bbc-news&mode=29
+#EXTINF:0,BBC World News
+http://127.0.0.1:65007/?url=regarder-bbc-world-news&mode=47
+#EXTINF:0,BBC World News
+http://127.0.0.1:65007/?url=3268%26ignorefilmonguide%3D1%26filmonmethod%3D1&mode=1
+#EXTINF:0,BBC World News
+http://127.0.0.1:65007/?url=216&mode=6
+#EXTINF:0,BBC Two
+http://127.0.0.1:65007/?url=bbc-2&mode=47
+#EXTINF:0,BBC Two
+http://127.0.0.1:65007/?url=25&mode=1
+#EXTINF:0,BBC Two
+http://127.0.0.1:65007/?url=190&mode=6
+#EXTINF:0,BBC Parliament
+http://127.0.0.1:65007/?url=1666&mode=1
+#EXTINF:0,BBC One
+http://127.0.0.1:65007/?url=93%3B%3Bbbcone&mode=6
+#EXTINF:0,BBC One
+http://127.0.0.1:65007/?url=14&mode=1
+#EXTINF:0,BBC One
+http://127.0.0.1:65007/?url=bbc-1&mode=47
+#EXTINF:0,BBC News arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
+#EXTINF:0,BBC News
+http://127.0.0.1:65007/?url=27&mode=1
+#EXTINF:0,BBC News
+rtmp://argos.cdn.newschat.tv/edge playpath=bbcnews_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/uk/
+#EXTINF:0,BBC News
+http://127.0.0.1:65007/?url=27&mode=6
+#EXTINF:0,BBC Four
+http://127.0.0.1:65007/?url=103&mode=1
+#EXTINF:0,BBC 1 Wales
+http://127.0.0.1:65007/?url=3227&mode=1
+#EXTINF:0,BBC 1 Scotland
+http://127.0.0.1:65007/?url=3166&mode=1
+#EXTINF:0,BBC 1 North Ireland
+http://127.0.0.1:65007/?url=361&mode=1
+#EXTINF:0,Banned Westerns
+http://127.0.0.1:65007/?url=2951&mode=1
+#EXTINF:0,banat
+http://81.18.66.155:1935/live/banat-tv/playlist.m3u8
+#EXTINF:0,KIT TV - BACAU
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:0,axn scifi sony sci fi
+http://127.0.0.1:65007/?url=17-axn-scifi-sony-sci-fi&mode=29
+#EXTINF:0,AutoTV
+http://127.0.0.1:65007/?url=2945&mode=1
+#EXTINF:0,Australia Plus TV
+rtmp://118.97.183.196/jhos//aplus
+#EXTINF:0,ATV
+rtmp://nodes.stream.atv.hu/atvliveedge/_definst_/atvstream_2_aac
+#EXTINF:0,ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on||X-Forwarded-For=194.224.72.187
+#EXTINF:0,Atlas Ordu TV
+http://127.0.0.1:65007/?url=209&mode=6
+#EXTINF:0,ASTV NEWS
+http://202.170.127.184/astv/astvlive.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,Asian major
+http://103.40.138.89:1935/live/majorasian/playlist.m3u8
+#EXTINF:0,ARTE Fran
+http://127.0.0.1:65007/?url=1729%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,ARTE Fran
+http://streaming-hub.com/stream/arte.m3u8
+#EXTINF:0,ARTE Fran
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8|X-Forwarded-For=217.70.184.38
+#EXTINF:0,Arirang TV
+http://127.0.0.1:65007/?url=932&mode=1
+#EXTINF:0,Arirang TV
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DJVr6yiZ9IMY&mode=3
+#EXTINF:0,Arirang TV
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,Antenne Centre TV
+http://vm109.imust.org:1935/live/livestream/playlist.m3u8
+#EXTINF:0,Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,ANIPLUS indonesia
+rtmp://118.97.183.196/jhos//aniplus
+#EXTINF:0,animaux
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,Animal Planet RU
+http://127.0.0.1:65007/?url=en/channels/Animal%2520Planet&mode=24
+#EXTINF:0,Animal Planet
+http://127.0.0.1:65007/?url=animalplanet&mode=23
+#EXTINF:0,Angel TV
+http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/playlist.m3u8
+#EXTINF:0,Angel TV
+http://127.0.0.1:65007/?url=114&mode=6
+#EXTINF:0,andalucia
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,AN TV
+http://broadcasttr.com:1935/birantv/bant1/playlist.m3u8
+#EXTINF:0,AMGTV
+rtmp://cp212391.live.edgefcs.net/live/T02027-amgtv@120244 swfUrl=http://vp.telvue.com/extra/jwplayer.swf swfVfy=1 live=1 pageUrl=http://vp.telvue.com/player?id=T02027&video=57269&mini=1&autoplay=true timeout=15
+#EXTINF:0,AMERICA 24
+http://prepublish.f.qaotic.net/epa/ngrp:americatvlive-100056_all/Playlist.m3u8|Referer=http://vmf.edge-apps.net&amp;User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:49.0) Gecko/20100101 Firefox/49.0&amp;origin=http://vmf.edge-apps.net&amp;Connection=keep-alive&amp;X-Forwarded-For=200.42.143.60
+#EXTINF:0,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0,amarintv
+rtmp://112.121.152.34:80/stream playpath=5195e80fe1ed0 swfUrl=http://27.254.55.116/~amarintv/live-streaming/Scripts/player.swf pageUrl=http://27.254.55.116/~amarintv/live-streaming/
+#EXTINF:0,amarintv
+http://202.170.120.228:1935/stream/5195e80fe1ed0/playlist.m3u8
+#EXTINF:0,amarintv
+http://127.0.0.1:65007/?url=ch26&mode=15
+#EXTINF:0,Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:0,ALL THE KPOP
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3Dv6NTX2gH_uM&mode=3
+#EXTINF:0,Alien (invasion) channel
+http://127.0.0.1:65007/?url=3122&mode=1
+#EXTINF:0,Al Jazeera Documentary
+http://127.0.0.1:65007/?url=3029%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Al Jazeera Arabic
+http://127.0.0.1:65007/?url=3035%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Al Jazeera
+http://127.0.0.1:65007/?url=4%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,Al Jazeera
+rtmp://argos.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://newschat.tv/player.swf live=1 pageUrl=http://www.livenewschat.eu/jazzyi/
+#EXTINF:0,Al Jazeera
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_eng_high swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf swfVfy=true live=true
+#EXTINF:0,Al Jazeera
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3D1YnlX4CkPDY&mode=3
+#EXTINF:0,Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
+#EXTINF:0,Agron-tv ro
+http://agrotv.streamnet.ro:9000/
+#EXTINF:0,AFL Classic
+http://127.0.0.1:65007/?url=980&mode=1
+#EXTINF:0,ACTION
+http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/master.m3u8
+#EXTINF:0,ABP News
+http://127.0.0.1:65007/?url=3704&mode=1
+#EXTINF:0,abmoteurs
+http://live-trl101.abweb.com/liveabtrl101/ngrp:abmoteurs.stream_bis/master.m3u8
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_4000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,ABC
+http://127.0.0.1:65007/?url=abc-american-broadcasting-company&mode=47
+#EXTINF:0,AB1
+http://live-trl102.abweb.com/liveabtrl102/ngrp:ab1.stream_bis/master.m3u8
+#EXTINF:0,A24
+http://127.0.0.1:65007/?url=https%3A//www.youtube.com/watch%26v%3DZEk_4qyyBq0&mode=3
+#EXTINF:0,A-one
+http://127.0.0.1:65007/?url=a-one&mode=30
+#EXTINF:0,A Spor
+http://127.0.0.1:65007/?url=390&mode=6
+#EXTINF:0,A Haber
+http://127.0.0.1:65007/?url=394&mode=6
+#EXTINF:0,99.5FM רדיו חם אש
+http://46.4.41.68:8000/995fm?type=.flv
+#EXTINF:0,96FM רדיו קול רגע
+http://radio.96fm.co.il/96fm
+#EXTINF:0,93FM רדיו קול חי
+http://switch2-streaming-212-83-eu.ilcast.com:8000
+#EXTINF:0,92.1FM רדיו קול ברמה
+http://server1.live1.co.il:8004/livemp3
+#EXTINF:0,91FM לב המדינה
+http://213.8.143.168/91fmAudio
+#EXTINF:0,90FM אמצע הדרך
+http://90.cdnwz.net/90fm
+#EXTINF:0,89.1FM Первое радио
+http://213.8.143.168/891fm
+#EXTINF:0,88FM
+http://127.0.0.1:65007/?url=radio-88fmM&mode=33
+#EXTINF:0,88FM
+http://radiocast-rr-d.vidnt.com:8000/iba_radio-88fmM
+#EXTINF:0,כאן - 80-90
+http://radiocast-rr-d.vidnt.com:8000/ipbc_IPBC80-90LA
+#EXTINF:0,6tv
+rtmp://rtmp2.chrominance.ro/enescu/ playpath=encoder1 swfUrl=http://www.chrominance.ro/enescu/jwplayer/jwplayer.flash.swf pageUrl=http://www.chrominance.ro/enescu/
+#EXTINF:0,6ter
+http://127.0.0.1:65007/?url=regarder_6ter&mode=47
+#EXTINF:0,5USA
+http://127.0.0.1:65007/?url=845&mode=1
+#EXTINF:0,5*
+http://127.0.0.1:65007/?url=851%26ignorefilmonguide%3D1&mode=1
+#EXTINF:0,5 канал (Петербург)
+http://stream.lapti.tv/hls/chunks/5kanal.m3u8
+#EXTINF:0,5 канал
+http://127.0.0.1:65007/?url=5tv&mode=23
+#EXTINF:0,5 Канал RU
+http://127.0.0.1:65007/?url=en/channels/5%252520%25D0%259A%25D0%25B0%25D0%25BD%25D0%25B0%25D0%25BB&mode=24
+#EXTINF:0,5 kanal
+http://127.0.0.1:65007/?url=5kanal-russia-online&mode=25
+#EXTINF:0,5 kanal
+http://127.0.0.1:65007/?url=2002-5-kanal&mode=28
+#EXTINF:0,4fun.tv
+http://127.0.0.1:65007/?url=4funtv&mode=31
+#EXTINF:0,3cat
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8?DVR
+#EXTINF:0,2x2
+http://127.0.0.1:65007/?url=2x2-tv-online&mode=25
+#EXTINF:0,2x2
+http://127.0.0.1:65007/?url=2x2&mode=30
+#EXTINF:0,2x2
+http://127.0.0.1:65007/?url=2x2&mode=23
+#EXTINF:0,2x2
+http://127.0.0.1:65007/?url=25-2x2&mode=29
+#EXTINF:0,2x2
+http://127.0.0.1:65007/?url=1965-2x2&mode=28
+#EXTINF:0,24h
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
+#EXTINF:0,24 новости
+http://127.0.0.1:65007/?url=24&mode=23
+#EXTINF:0,24 TV
+http://103.22.182.99:1935/flash2837/flash2837/playlist.m3u8
+#EXTINF:0,24 TV
+http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
+#EXTINF:0,1music.ro
+http://127.0.0.1:65007/?url=http%3A//www.livestream.com/1_music_channel/&mode=3
+#EXTINF:0,109FM
+http://cuead.cdnwiz.com/cuead-109fmmp3-64
+#EXTINF:0,107.5FM רדיו חיפה
+http://1075.livecdn.biz/radiohaifa?type=.flv
+#EXTINF:0,106FM רדיו קול הכנרת
+http://kinneret.cdnwz.net:8016/106fm
+#EXTINF:0,106FM רדיו קול אחר אריאל
+rtmp://server2.procast.co.il:1935/ariel/ playpath=video swfUrl=http://radio-tv-audio.procast.co.il/video/jwplayer.flash.swf pageUrl=http://radio-tv-audio.procast.co.il/video/projW.html
+#EXTINF:0,106FM רדיו אשל הנשיא
+http://stream.eshelnet.com/xstream?1473838878565.mp3
+#EXTINF:0,106FM קול רמת השרון
+http://1036fm.livecast.co.il/live1036fm
+#EXTINF:0,106FM קול רמלה
+http://84.94.229.99:5693/
+#EXTINF:0,106FM קול נתניה
+http://netanya.cdnwz.net/netanya
+#EXTINF:0,106FM קול נס ציונה
+http://kolness.livecast.co.il/liveness
+#EXTINF:0,106FM קול יזרעאל
+http://yezreel.cdnwz.net/yezreel
+#EXTINF:0,106FM קול הקמפוס
+http://106fm.livecdn.biz:7075/;stream.mp3
+#EXTINF:0,106FM קול גת
+http://kolgat.livecast.co.il/livegat
+#EXTINF:0,106FM קול גלים
+http://switch2-streaming-212-83-eu.ilcast.com:8055/;stream/1
+#EXTINF:0,106.5FM גלי ישראל
+http://gly-switch1.level1.co.il:9000/live
+#EXTINF:0,106.4FM קול הנגב
+rtmp://stream1.sapir.ac.il:1935/live/ playpath=myStream swfUrl=http://vod.sapir.ac.il/jwplayer/jwplayer.flash.swf pageUrl=http://vod.sapir.ac.il/kolhanegev/
+#EXTINF:0,106.2FM קול ראשונים
+http://switch2-streaming-212-83-eu.ilcast.com:8090/;stream/1
+#EXTINF:0,106.2FM הרדיו הבינתחומי
+http://194.153.101.160:8000/idc123.mp3
+#EXTINF:0,106.2FM אורנים
+http://oranim.cdnwz.net:8016/oranim
+#EXTINF:0,105.3FM קול הגליל העליון
+http://212.179.6.235:8000/galil
+#EXTINF:0,103FM רדיו ללא הפסקה
+http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio
+#EXTINF:0,102FM רדיו תל אביב
+http://102.livecdn.biz/102fm_aac
+#EXTINF:0,102FM קול הים האדום אילת
+http://eilat.cdnwz.net/102fm
+#EXTINF:0,101FM רדיו ירושלים
+http://server1.live1.co.il:8004/jrs101fm
+#EXTINF:0,101.5FM רדיו דרום
+http://audio-darom.ecast.co.il/darom101
+#EXTINF:0,101.1FM רדיו א-שמס
+rtmp://live1.ashams.com/live playpath=live swfUrl=http://www.ashams.com/admin-aps/inc/player/player.swf pageUrl=http://www.ashams.com/live.html
+#EXTINF:0,100FM רדיוס
+http://213.8.143.168/100fmAudio
+#EXTINF:0,1+1
+http://127.0.0.1:65007/?url=1plus1&mode=23
+#EXTINF:0,1 on 1 Boxing TV
+http://127.0.0.1:65007/?url=1988&mode=1
