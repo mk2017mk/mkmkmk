@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-ID="" tvg-name="==== IDAN PLUS 5 תחנות ====" tvg-logo="" group-title="",==== IDAN PLUS 5 תחנות ====
-http://localhost:65007/?url=BB&mode=-1
+
 #EXTINF:0,ערוץ האח הגדול
 http://127.0.0.1:65007/?url=BB&mode=-1
 #EXTINF:-1 tvg-ID=" SD ערוץ 10" tvg-name="ערוץ 10" tvg-logo="https://xiptv.com/logos/hebrew/Channel10.png" group-title="Hebrew",SD ערוץ 10
