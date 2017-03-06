@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-ID="" tvg-name="==== IDAN PLUS 5 תחנות ====" tvg-logo="" group-title="",==== IDAN PLUS 5 תחנות ====
 http://localhost:65007/?url=BB&mode=-1
 #EXTINF:0,ערוץ האח הגדול
-https://youtu.be/XNhm9I1Vx9o
+http://127.0.0.1:65007/?url=BB&mode=-1
 #EXTINF:-1 tvg-ID=" SD ערוץ 10" tvg-name="ערוץ 10" tvg-logo="https://xiptv.com/logos/hebrew/Channel10.png" group-title="Hebrew",SD ערוץ 10
 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:-1 tvg-ID=" HD ערוץ 10" tvg-name="ערוץ 10" tvg-logo="https://xiptv.com/logos/hebrew/Channel10.png" group-title="Hebrew",HD ערוץ 10
@@ -170,5 +170,9 @@ http://95.107.132.226:8000/play/a003
 #EXTINF:0,Arena 1
 http://95.107.132.226:8000/play/a01l
 #EXTINF:-1,beIN SPORTS ACTU
+<<<<<<< HEAD
 
 http://46.249.60.210:9981/play/a03x
+=======
+http://46.249.60.210:9981/play/a03x
+>>>>>>> origin/master
