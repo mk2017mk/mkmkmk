@@ -35,3 +35,5 @@ http://146.185.61.140:1935/live/myStream/playlist.m3u8
 https://stream-13.vty.dailymotion.com/45/dm/1/x29atae/live.isml/events(live-1488416366)/live-audio=128000-video=700000-media.m3u8?
 #EXTINF:0,FTV english
 http://62.122.88.59:81/udp/238.1.1.103:1234
+#EXTINF:0,HOT 3
+http://live.softiptv.com:9900/live/525/525/27089.ts
