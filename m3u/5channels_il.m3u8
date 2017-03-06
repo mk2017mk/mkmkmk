@@ -23,16 +23,6 @@ http://127.0.0.1:65007/?url=BB&mode=-1
 http://127.0.0.1:65007/?url=6540b8dcb64fd31006&mode=2
 #EXTINF:0,ערוץ 2
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
-#EXTINF:-1,Premier Sports UK
-http://87.76.91.24:8008/play/a009
-#EXTINF:-1,Sky Premiere UK
-http://87.76.91.24:8008/play/a00h
-#EXTINF:-1,Sky Action Adventure UK
-http://87.76.91.24:8008/play/a00g
-#EXTINF:-1,E! UK
-http://87.76.91.24:8008/play/a00c
-#EXTINF:-1,Sky 1 UK
-http://87.76.91.24:8008/play/a004
 #EXTINF:0,ערוץ 2
 http://besttv1.aoslive.it.best-tv.com/hls-live/reshet-neveilan02/_definst_/live/stream_profile2.m3u8
 #EXTINF:0,ערוץ 10
@@ -61,3 +51,13 @@ http://glzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
 http://glglzlv01.vds-is.bynetcdn.com/glglz/glglz_aac/playlist.m3u8
 #EXTINF:0,גלגלצ
 http://glglzwizzlv.bynetcdn.com/glglz_aes_hls/playlist.m3u8
+#EXTINF:-1,Premier Sports UK
+http://87.76.91.24:8008/play/a009
+#EXTINF:-1,Sky Premiere UK
+http://87.76.91.24:8008/play/a00h
+#EXTINF:-1,Sky Action Adventure UK
+http://87.76.91.24:8008/play/a00g
+#EXTINF:-1,E! UK
+http://87.76.91.24:8008/play/a00c
+#EXTINF:-1,Sky 1 UK
+http://87.76.91.24:8008/play/a004
