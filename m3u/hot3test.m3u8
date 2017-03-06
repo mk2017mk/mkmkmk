@@ -1,3 +1,4 @@
 #EXTM3U
 #EXTVLCOPT:network-caching=1000
+#EXTINF:0,ערוץ האח הגדול
 http://live.softiptv.com:9900/live/525/525/27089.ts
