@@ -7,6 +7,27 @@ auto http://192.168.1.15:8081/
 ffrt2 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
 #EXTINF:0,Russia ערוץ 9
 ffrt2 http://146.185.61.140:1935/live/myStream/chunklist_w935988954.m3u8
+#EXTINF:0,ערוץ הכנסת
+ffrt2 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
+#EXTINF:0,מאירTV
+ffrt2 http://82.80.198.100:1935/live/live1/playlist.m3u8
+#EXTINF:0,ערוץ ההידברות
+ffrt2 http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8
+#EXTINF:0,ערוץ הקבלה
+ffrt2 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
+
+#EXTINF:0,ערוץ 20
+ffrt2 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
+#EXTINF:0,ערוץ 24
+ffrt2 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+#EXTINF:0,LIVE ערוץ 24
+ffrt2 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8|User-Agent=Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+#EXTINF:0,רשת ערוץ 2
+ffrt2 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+#EXTINF:0,קשת ערוץ 2
+ffrt2 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8
+#EXTINF:0,חדשות ערוץ 2
+ffrt2 http://keshethlslive-lh.akamaihd.net/i/c2nsec_1@195268/index_2000_av-p.m3u8
 
 #EXTINF:0,HRT 1
 http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
