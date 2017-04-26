@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1,AF:ESTV
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2057.ts
-#EXTINF:-1,ALSehaWaljamal
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2068.ts
-#EXTINF:-1,AR:4SHABAB_TV1
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2107.ts
-#EXTINF:-1,AR:7alawet_Ro7
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2204.ts
-#EXTINF:-1,AR:A1_Jordan
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2155.ts
-#EXTINF:-1,AR:ABO_HAFEEZA_AFLAM
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2143.ts
-#EXTINF:-1,AR:ADDUSTOUR
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2083.ts
-#EXTINF:-1,AR:AFANDENA_TV
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2243.ts
-#EXTINF:-1,AR:AFAQ
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2275.ts
-#EXTINF:-1,AR:AFLAM_TUBE
-http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2087.ts
+#EXTINF:0,HD Media
+ffmpeg http://89.208.33.168:8100/
+#EXTINF:0,HD Live
+ffrt2 rtmp://wms002.pik-tv.com/live/piktv3pik3tv
+#EXTINF:0, RBC
+ffmpeg mmsh://tv.gldn.net/rbc
+#EXTINF:0,ORANGE SPORT INFO TV
+ffrt2 mmsh://livewm.orange.fr/live-multicanaux
+#EXTINF:0,Радио Гора
+ifm http://mirror.radiogora.ru:10040
