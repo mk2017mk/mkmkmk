@@ -2,7 +2,7 @@
 #EXTINF:0,HD movies
 auto http://79.177.4.63:8081/
 #EXTINF:0,HD movies local 8081
-ffrt http://192.168.1.15:8081/
+auto http://192.168.1.15:8081/
 #EXTINF:0,HD Live
 ffrt2 rtmp://wms002.pik-tv.com/live/piktv3pik3tv
 #EXTINF:0, RBC
