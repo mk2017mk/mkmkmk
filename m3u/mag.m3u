@@ -5,10 +5,11 @@ auto http://79.177.4.63:8081/
 auto http://192.168.1.15:8081/
 #EXTINF:0,SD israel ערוץ 10
 ffrt2 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
+#EXTINF:0,Russia ערוץ 9
+ffrt2 http://146.185.61.140:1935/live/myStream/chunklist_w935988954.m3u8
+
 #EXTINF:0,HRT 1
 ffrt2 http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
-#EXTINF:0,HRT 2
-ffrt3 http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
-#EXTINF:0,HRT 3
-ffmpeg http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
+
+
 
