@@ -1,7 +1,21 @@
 #EXTM3U
-#EXTINF:15,########   israel   ########
-#EXTINF:0,SD ערוץ 10
-http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
- 
-#EXTINF:0,HRT 1
-http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
+#EXTINF:-1,AF:ESTV
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2057.ts
+#EXTINF:-1,ALSehaWaljamal
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2068.ts
+#EXTINF:-1,AR:4SHABAB_TV1
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2107.ts
+#EXTINF:-1,AR:7alawet_Ro7
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2204.ts
+#EXTINF:-1,AR:A1_Jordan
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2155.ts
+#EXTINF:-1,AR:ABO_HAFEEZA_AFLAM
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2143.ts
+#EXTINF:-1,AR:ADDUSTOUR
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2083.ts
+#EXTINF:-1,AR:AFANDENA_TV
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2243.ts
+#EXTINF:-1,AR:AFAQ
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2275.ts
+#EXTINF:-1,AR:AFLAM_TUBE
+http://ip01.fox-cloud.co/live/spider_bLdUkS/kzVlX44G/2087.ts
