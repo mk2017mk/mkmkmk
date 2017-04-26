@@ -3,16 +3,7 @@
 auto http://79.177.4.63:8081/
 #EXTINF:0,HD movies local 8081
 auto http://192.168.1.15:8081/
-#EXTINF:0,HD Live
-ffrt2 rtmp://wms002.pik-tv.com/live/piktv3pik3tv
-#EXTINF:0, RBC
-ffmpeg mmsh://tv.gldn.net/rbc
-#EXTINF:0,ORANGE SPORT INFO TV
-ffrt2 mmsh://livewm.orange.fr/live-multicanaux
-#EXTINF:0,Радио Гора
-ifm http://mirror.radiogora.ru:10040
 #EXTINF:0,SD israel ערוץ 10
 ffrt2 http://nana10-hdl-il.ctedgecdn.net/Nana10-Live/amlst:hd_,500,1000,1200,2400,/playlist.m3u8
-
 #EXTINF:0,HRT 1
-auto http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
+ffrt http://titaniptv.com:9140/live/KFKW3teJyQ/titaniptv.com/41.ts
