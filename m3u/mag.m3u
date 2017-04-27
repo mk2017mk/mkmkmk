@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,HD movies
-auto http://79.177.4.63:8081/
+ffrt http://79.177.4.63:8081/
 #EXTINF:0,HD movies local 8081
 auto http://192.168.1.15:8081/
 #EXTINF:0,SD israel ערוץ 10
