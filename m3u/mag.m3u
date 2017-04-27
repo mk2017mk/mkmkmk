@@ -18,11 +18,11 @@ ffrt2 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
 #EXTINF:0,ערוץ 20
 ffrt2 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/ch20/high/chunks.m3u8
 #EXTINF:0,רשת ערוץ 2
-ffrt2 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8
 #EXTINF:0,קשת ערוץ 2
-ffrt2 http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8
+http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index_2296.m3u8
 #EXTINF:0,ערוץ 24
-ffrt2 http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2000_av-b.m3u8
 #EXTINF:0,ערוץ הקניות
 rtmp://shoppingil-s.vidnt.com/shoppingil_ShoppingIL21TVRepeat/ShoppingIL21TV_3
 
